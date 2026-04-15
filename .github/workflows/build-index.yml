@@ -1,0 +1,110 @@
+name: Build Index
+
+on:
+  push:
+    branches: [main]
+    paths-ignore:
+      - '_index.json'
+      - 'README.md'
+      - 'LICENSE'
+      - '.github/**'
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Build _index.json
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const path = require('path');
+
+            const files = fs.readdirSync('.').filter(f =>
+              f.endsWith('.json') && f !== '_index.json' && f.includes('__')
+            );
+
+            const packages = [];
+
+            for (const file of files) {
+              let entry;
+              try {
+                entry = JSON.parse(fs.readFileSync(file, 'utf8'));
+              } catch (e) {
+                console.warn(`Skipping ${file}: invalid JSON`);
+                continue;
+              }
+
+              if (!entry.repo || !entry.name) {
+                console.warn(`Skipping ${file}: missing repo or name`);
+                continue;
+              }
+
+              const author = file.split('__')[0];
+              let keywords = entry.tags || [];
+              let version = '1.0.0';
+              let fileCount = 0;
+
+              // Fetch tarshub.json from the developer's repo
+              try {
+                let response = await fetch(
+                  `https://raw.githubusercontent.com/${entry.repo}/main/tarshub.json`
+                );
+                if (!response.ok) {
+                  response = await fetch(
+                    `https://raw.githubusercontent.com/${entry.repo}/master/tarshub.json`
+                  );
+                }
+
+                if (response.ok) {
+                  const tarshub = await response.json();
+                  if (tarshub.keywords && Array.isArray(tarshub.keywords)) {
+                    const merged = new Set([...keywords, ...tarshub.keywords]);
+                    keywords = [...merged];
+                  }
+                  if (tarshub.version) version = tarshub.version;
+                  if (tarshub.files) fileCount = tarshub.files.length;
+                } else {
+                  console.warn(`Could not fetch tarshub.json for ${entry.repo}`);
+                }
+              } catch (e) {
+                console.warn(`Error fetching tarshub.json for ${entry.repo}: ${e.message}`);
+              }
+
+              packages.push({
+                id: file.replace('.json', ''),
+                name: entry.name,
+                author,
+                avatar: `https://avatars.githubusercontent.com/${author}`,
+                repo: entry.repo,
+                description: entry.description || '',
+                keywords: keywords.map(k => k.toLowerCase()),
+                files: fileCount,
+                version
+              });
+            }
+
+            packages.sort((a, b) => a.id.localeCompare(b.id));
+
+            const index = {
+              updated: new Date().toISOString(),
+              packages
+            };
+
+            fs.writeFileSync('_index.json', JSON.stringify(index, null, 2) + '\n');
+            console.log(`Built _index.json with ${packages.length} packages`);
+
+      - name: Commit and push
+        run: |
+          git config user.name "tarshub-bot"
+          git config user.email "bot@tarshub.com"
+          git add _index.json
+          git diff --staged --quiet && echo "No changes to _index.json" && exit 0
+          git commit -m "rebuild _index.json"
+          git push
