@@ -18,9 +18,8 @@ Or browse and download from [tarshub.com](https://tarshub.com).
 
 ## Publish a package
 
-### 1. Create a public repo with your context files
-
-Your repo must have a `tarshub.json` at the root:
+1. Create a public GitHub repo with your context files
+2. Add a `tarshub.json` at the root:
 
 ```json
 {
@@ -28,6 +27,7 @@ Your repo must have a `tarshub.json` at the root:
   "description": "Short description of what this context package is for",
   "keywords": ["nextjs", "supabase", "saas"],
   "version": "1.0.0",
+  "listed": true,
   "files": [
     "AGENTS.md",
     ".cursor/rules/general.mdc",
@@ -36,46 +36,25 @@ Your repo must have a `tarshub.json` at the root:
 }
 ```
 
+3. Go to [tarshub.com/publish](https://tarshub.com/publish) and paste your repo URL
+
+That's it. Your package will appear on TarsHub within minutes.
+
 **Allowed file types:** `.md`, `.mdc`, `.txt`, `.json`, `.yaml`, `.yml`, `.toml`
 **Max file size:** 50 KB per file &bull; **Max package size:** 500 KB &bull; **Max files:** 50
 
-### 2. Submit to this registry
+## Consent & listing control
 
-Fork this repo, add a JSON file named `<your-github-username>__<package-name>.json`:
+The `tarshub.json` file in your repo is your consent to be listed on TarsHub. No account or login is needed.
 
-```json
-{
-  "name": "my-package-name",
-  "repo": "your-username/your-repo-name",
-  "description": "Short description of what this context package is for",
-  "tags": ["nextjs", "supabase", "saas"]
-}
-```
+| Scenario | Result |
+|----------|--------|
+| `tarshub.json` exists, no `listed` field | **Listed** (default) |
+| `tarshub.json` has `"listed": true` | **Listed** |
+| `tarshub.json` has `"listed": false` | **Delisted** — submit the URL again on [tarshub.com/publish](https://tarshub.com/publish) to remove your package |
+| `tarshub.json` doesn't exist | **Rejected** — cannot be added to TarsHub |
 
-Open a PR. A GitHub Action will validate your submission and auto-merge it if everything checks out.
-
-### Submission rules
-
-- Filename must follow the format `<your-github-username>__<package-name>.json`
-- You can only add or modify files that start with your own GitHub username
-- The repo in your submission must be public and contain a valid `tarshub.json`
-- One file per package — submit multiple files if you have multiple packages
-
-## How it works
-
-```
-Developer publishes         User installs
-  their own repo              via CLI or tarshub.com
-       │                            │
-       ▼                            ▼
-  PR to this registry ──→  _index.json (auto-built)
-       │                            │
-       ▼                            ▼
-  GitHub Action validates    CLI fetches files from
-  and auto-merges            developer's repo via GitHub CDN
-```
-
-No servers. No databases. Just GitHub.
+You control your listing entirely from your own repo. No one else can list or delist your package because only you can change `tarshub.json` in your repository.
 
 ## License
 

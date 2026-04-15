@@ -5,9 +5,6 @@ on:
     branches: [main]
     paths-ignore:
       - '_index.json'
-      - 'README.md'
-      - 'LICENSE'
-      - '.github/**'
 
 permissions:
   contents: write
@@ -26,8 +23,14 @@ jobs:
             const fs = require('fs');
             const path = require('path');
 
-            const files = fs.readdirSync('.').filter(f =>
-              f.endsWith('.json') && f !== '_index.json' && f.includes('__')
+            const pkgDir = 'packages';
+            if (!fs.existsSync(pkgDir)) {
+              console.log('No packages/ directory found. Writing empty index.');
+              fs.writeFileSync('_index.json', JSON.stringify({ updated: new Date().toISOString(), packages: [] }, null, 2) + '\n');
+              return;
+            }
+            const files = fs.readdirSync(pkgDir).filter(f =>
+              f.endsWith('.json') && f.includes('__')
             );
 
             const packages = [];
@@ -35,7 +38,7 @@ jobs:
             for (const file of files) {
               let entry;
               try {
-                entry = JSON.parse(fs.readFileSync(file, 'utf8'));
+                entry = JSON.parse(fs.readFileSync(path.join(pkgDir, file), 'utf8'));
               } catch (e) {
                 console.warn(`Skipping ${file}: invalid JSON`);
                 continue;
@@ -47,35 +50,9 @@ jobs:
               }
 
               const author = file.split('__')[0];
-              let keywords = entry.tags || [];
-              let version = '1.0.0';
-              let fileCount = 0;
-
-              // Fetch tarshub.json from the developer's repo
-              try {
-                let response = await fetch(
-                  `https://raw.githubusercontent.com/${entry.repo}/main/tarshub.json`
-                );
-                if (!response.ok) {
-                  response = await fetch(
-                    `https://raw.githubusercontent.com/${entry.repo}/master/tarshub.json`
-                  );
-                }
-
-                if (response.ok) {
-                  const tarshub = await response.json();
-                  if (tarshub.keywords && Array.isArray(tarshub.keywords)) {
-                    const merged = new Set([...keywords, ...tarshub.keywords]);
-                    keywords = [...merged];
-                  }
-                  if (tarshub.version) version = tarshub.version;
-                  if (tarshub.files) fileCount = tarshub.files.length;
-                } else {
-                  console.warn(`Could not fetch tarshub.json for ${entry.repo}`);
-                }
-              } catch (e) {
-                console.warn(`Error fetching tarshub.json for ${entry.repo}: ${e.message}`);
-              }
+              const keywords = (entry.keywords || []).map(k => k.toLowerCase());
+              const version = entry.version || '1.0.0';
+              const fileCount = Array.isArray(entry.files) ? entry.files.length : 0;
 
               packages.push({
                 id: file.replace('.json', ''),
@@ -84,7 +61,7 @@ jobs:
                 avatar: `https://avatars.githubusercontent.com/${author}`,
                 repo: entry.repo,
                 description: entry.description || '',
-                keywords: keywords.map(k => k.toLowerCase()),
+                keywords,
                 files: fileCount,
                 version
               });
