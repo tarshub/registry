@@ -10,6 +10,7 @@
       "subpath": "",
       "description": "tarshub test rules file",
       "keywords": [],
+      "contentType":"cursor-rules",
       "files": 4,
       "version": "1.0.0"
     },
@@ -22,6 +23,7 @@
       "subpath": "",
       "description": "Flutter App Expert .cursorrules",
       "keywords": [],
+      "contentType":"cursor-rules",
       "files": 4,
       "version": "1.0.0"
     }
