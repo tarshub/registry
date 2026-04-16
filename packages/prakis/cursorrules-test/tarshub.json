@@ -1,0 +1,14 @@
+{
+  "name": "cursorrules-test",
+  "description": "tarshub test rules file",
+  "keywords": [],
+  "version": "1.0.0",
+  "repo": "prakis/cursorrules-test",
+  "subpath": "",
+  "files": [
+    "README.md",
+    "flutter-core-rules.mdc",
+    "flutter-feature-rules.mdc",
+    "flutter-testing-rules.mdc"
+  ]
+}
