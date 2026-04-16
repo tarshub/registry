@@ -2,6 +2,7 @@
   "name": "cursorrules-test",
   "description": "tarshub test rules file",
   "keywords": [],
+  "contentType":"cursor-rules",
   "version": "1.0.0",
   "repo": "prakis/cursorrules-test",
   "subpath": "",
