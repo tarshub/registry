@@ -29,44 +29,62 @@ jobs:
               fs.writeFileSync('_index.json', JSON.stringify({ updated: new Date().toISOString(), packages: [] }, null, 2) + '\n');
               return;
             }
-            const files = fs.readdirSync(pkgDir).filter(f =>
-              f.endsWith('.json') && f.includes('__')
-            );
 
             const packages = [];
 
-            for (const file of files) {
-              let entry;
-              try {
-                entry = JSON.parse(fs.readFileSync(path.join(pkgDir, file), 'utf8'));
-              } catch (e) {
-                console.warn(`Skipping ${file}: invalid JSON`);
-                continue;
+            function walkDir(dir, relativeBase) {
+              const entries = fs.readdirSync(dir, { withFileTypes: true });
+              for (const ent of entries) {
+                const fullPath = path.join(dir, ent.name);
+                if (ent.isDirectory()) {
+                  walkDir(fullPath, relativeBase);
+                } else if (ent.isFile() && ent.name === 'tarshub.json') {
+                  let entry;
+                  try {
+                    entry = JSON.parse(fs.readFileSync(fullPath, 'utf8'));
+                  } catch (e) {
+                    console.warn(`Skipping ${fullPath}: invalid JSON`);
+                    continue;
+                  }
+
+                  if (!entry.repo || !entry.name) {
+                    console.warn(`Skipping ${fullPath}: missing repo or name`);
+                    continue;
+                  }
+
+                  const relativePath = path.relative(relativeBase, fullPath);
+                  let id = relativePath.replace(/\\/g, '/');
+                  if (!id.endsWith('tarshub.json')) {
+                    console.warn(`Skipping ${fullPath}: expected tarshub.json leaf`);
+                    continue;
+                  }
+                  id = id.slice(0, -'tarshub.json'.length).replace(/\/$/, '');
+                  if (!id) {
+                    console.warn(`Skipping ${fullPath}: invalid path (id empty)`);
+                    continue;
+                  }
+                  const author = id.split('/')[0];
+                  const keywords = (entry.keywords || []).map(k => k.toLowerCase());
+                  const version = entry.version || '1.0.0';
+                  const fileCount = Array.isArray(entry.files) ? entry.files.length : 0;
+
+                  packages.push({
+                    id,
+                    name: entry.name,
+                    author,
+                    avatar: `https://avatars.githubusercontent.com/${author}`,
+                    repo: entry.repo,
+                    subpath: entry.subpath || '',
+                    description: entry.description || '',
+                    keywords,
+                    files: fileCount,
+                    version
+                  });
+                }
               }
-
-              if (!entry.repo || !entry.name) {
-                console.warn(`Skipping ${file}: missing repo or name`);
-                continue;
-              }
-
-              const author = file.split('__')[0];
-              const keywords = (entry.keywords || []).map(k => k.toLowerCase());
-              const version = entry.version || '1.0.0';
-              const fileCount = Array.isArray(entry.files) ? entry.files.length : 0;
-
-              packages.push({
-                id: file.replace('.json', ''),
-                name: entry.name,
-                author,
-                avatar: `https://avatars.githubusercontent.com/${author}`,
-                repo: entry.repo,
-                description: entry.description || '',
-                keywords,
-                files: fileCount,
-                version
-              });
             }
 
+            walkDir(pkgDir, pkgDir);
             packages.sort((a, b) => a.id.localeCompare(b.id));
 
             const index = {

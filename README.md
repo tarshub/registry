@@ -8,18 +8,39 @@ A TarsHub package is a collection of plain-text context files (`AGENTS.md`, `.cu
 
 Packages work with **any agent** — Cursor, Claude Code, Windsurf, and more.
 
+## How packages are stored here
+
+Each listed package has a **single manifest file** named `tarshub.json`. The **folders under `packages/` mirror the GitHub repo path** (owner, repo, optional subfolders for a subdirectory package). Examples:
+
+- `packages/johndoe/react-tailwind-configs/tarshub.json`
+- `packages/PatrickJS/awesome-cursorrules/rules/htmx-flask/tarshub.json`
+
+The leaf name is always `tarshub.json` (not `<repo-name>.json`). The automated **`_index.json`** file is rebuilt on every push to `main` by collecting every `packages/**/tarshub.json`.
+
 ## Install a package
 
 ```bash
-npx tarshub install @johndoe/nextjs-supabase-saas
+npx tarshub install @johndoe/react-tailwind-configs
+npx tarshub install @PatrickJS/awesome-cursorrules/rules/htmx-flask
 ```
 
 Or browse and download from [tarshub.com](https://tarshub.com).
 
-## Publish a package
+## Submit a package
 
-1. Create a public GitHub repo with your context files
-2. Add a `tarshub.json` at the root:
+Anyone can submit a public GitHub repo (or a subdirectory within one) to TarsHub. No account needed.
+
+1. Go to [tarshub.com/publish](https://tarshub.com/publish)
+2. Paste the GitHub URL (repo or subdirectory)
+3. Done — your package will appear on TarsHub within minutes
+
+**Examples of URLs you can submit:**
+- `https://github.com/johndoe/react-tailwind-configs`
+- `https://github.com/PatrickJS/awesome-cursorrules/tree/main/rules/htmx-flask`
+
+### Optional: add a `tarshub.json` in your repo
+
+Adding a `tarshub.json` to your repo (or subdirectory) is **optional** but gives you richer metadata and listing control. When present, publish can store the same JSON under the matching path in this registry (with `repo` / `subpath` filled in if needed).
 
 ```json
 {
@@ -27,7 +48,6 @@ Or browse and download from [tarshub.com](https://tarshub.com).
   "description": "Short description of what this context package is for",
   "keywords": ["nextjs", "supabase", "saas"],
   "version": "1.0.0",
-  "listed": true,
   "files": [
     "AGENTS.md",
     ".cursor/rules/general.mdc",
@@ -36,25 +56,29 @@ Or browse and download from [tarshub.com](https://tarshub.com).
 }
 ```
 
-3. Go to [tarshub.com/publish](https://tarshub.com/publish) and paste your repo URL
+Without `tarshub.json` in your repo, TarsHub uses your repo's description and topics from GitHub and still writes a generated `tarshub.json` here.
 
-That's it. Your package will appear on TarsHub within minutes.
+### Opt out
 
-**Allowed file types:** `.md`, `.mdc`, `.txt`, `.json`, `.yaml`, `.yml`, `.toml`
-**Max file size:** 50 KB per file &bull; **Max package size:** 500 KB &bull; **Max files:** 50
+If you don't want your repo listed on TarsHub, add a `tarshub.json` with `"listed": false`:
 
-## Consent & listing control
+```json
+{
+  "listed": false
+}
+```
 
-The `tarshub.json` file in your repo is your consent to be listed on TarsHub. No account or login is needed.
+Then re-submit the URL at [tarshub.com/publish](https://tarshub.com/publish) to remove it.
 
 | Scenario | Result |
 |----------|--------|
-| `tarshub.json` exists, no `listed` field | **Listed** (default) |
+| No `tarshub.json` in repo | **Listed** — metadata from GitHub API, manifest generated here |
+| `tarshub.json` exists, no `listed` field | **Listed** — metadata from the file |
 | `tarshub.json` has `"listed": true` | **Listed** |
-| `tarshub.json` has `"listed": false` | **Delisted** — submit the URL again on [tarshub.com/publish](https://tarshub.com/publish) to remove your package |
-| `tarshub.json` doesn't exist | **Rejected** — cannot be added to TarsHub |
+| `tarshub.json` has `"listed": false` | **Delisted** — `packages/.../tarshub.json` removed |
 
-You control your listing entirely from your own repo. No one else can list or delist your package because only you can change `tarshub.json` in your repository.
+**Allowed file types:** `.md`, `.mdc`, `.txt`, `.json`, `.yaml`, `.yml`, `.toml`
+**Max file size:** 50 KB per file &bull; **Max package size:** 500 KB &bull; **Max files:** 50
 
 ## License
 
