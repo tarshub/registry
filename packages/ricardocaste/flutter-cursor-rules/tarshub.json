@@ -2,6 +2,7 @@
   "name": "flutter-cursor-rules",
   "description": "Flutter App Expert .cursorrules",
   "keywords": [],
+  "contentType":"cursor-rules",
   "version": "1.0.0",
   "repo": "ricardocaste/flutter-cursor-rules",
   "subpath": "",
