@@ -1,4 +1,17 @@
 {
-  "updated": "2026-04-16T07:18:26.744Z",
-  "packages": []
+  "updated": "2026-04-16T13:01:04.653Z",
+  "packages": [
+    {
+      "id": "ricardocaste/flutter-cursor-rules",
+      "name": "flutter-cursor-rules",
+      "author": "ricardocaste",
+      "avatar": "https://avatars.githubusercontent.com/ricardocaste",
+      "repo": "ricardocaste/flutter-cursor-rules",
+      "subpath": "",
+      "description": "Flutter App Expert .cursorrules",
+      "keywords": [],
+      "files": 4,
+      "version": "1.0.0"
+    }
+  ]
 }
