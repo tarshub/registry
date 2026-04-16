@@ -1,0 +1,14 @@
+{
+  "name": "flutter-cursor-rules",
+  "description": "Flutter App Expert .cursorrules",
+  "keywords": [],
+  "version": "1.0.0",
+  "repo": "ricardocaste/flutter-cursor-rules",
+  "subpath": "",
+  "files": [
+    "README.md",
+    "flutter-core-rules.mdc",
+    "flutter-feature-rules.mdc",
+    "flutter-testing-rules.mdc"
+  ]
+}
