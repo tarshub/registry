@@ -1,6 +1,24 @@
 {
-  "updated": "2026-04-17T12:43:41.120Z",
+  "updated": "2026-04-17T12:55:43.973Z",
   "packages": [
+    {
+      "id": "PatrickJS/awesome-cursorrules/blob/main/rules/react-mobx-cursorrules-prompt-file",
+      "name": "react-mobx-cursorrules-prompt-file",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/blob/main/rules/react-mobx-cursorrules-prompt-file",
+      "subpath": "",
+      "description": "📄  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 0,
+      "version": "1.0.0"
+    },
     {
       "id": "prakis/cursorrules-test",
       "name": "cursorrules-test",
