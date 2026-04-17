@@ -1,6 +1,24 @@
 {
-  "updated": "2026-04-16T16:02:04.849Z",
+  "updated": "2026-04-17T11:55:16.339Z",
   "packages": [
+    {
+      "id": "PatrickJS/awesome-cursorrules/blob/main/rules/react-mobx-cursorrules-prompt-file",
+      "name": "react-mobx-cursorrules-prompt-file",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules",
+      "subpath": "blob/main/rules/react-mobx-cursorrules-prompt-file",
+      "description": "📄  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 0,
+      "version": "1.0.0"
+    },
     {
       "id": "prakis/cursorrules-test",
       "name": "cursorrules-test",
@@ -10,7 +28,6 @@
       "subpath": "",
       "description": "tarshub test rules file",
       "keywords": [],
-      "contentType":"cursor-rules",
       "files": 4,
       "version": "1.0.0"
     },
@@ -23,7 +40,6 @@
       "subpath": "",
       "description": "Flutter App Expert .cursorrules",
       "keywords": [],
-      "contentType":"cursor-rules",
       "files": 4,
       "version": "1.0.0"
     }
