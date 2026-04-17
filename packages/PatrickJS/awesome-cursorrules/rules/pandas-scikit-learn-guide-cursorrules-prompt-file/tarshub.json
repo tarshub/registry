@@ -1,0 +1,29 @@
+{
+  "name": "pandas-scikit-learn-guide-cursorrules-prompt-file",
+  "description": "Cursor rules for Pandas development with scikit-learn guide integration.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/pandas-scikit-learn-guide-cursorrules-prompt-file",
+  "files": [
+    ".cursorrules",
+    "README.md",
+    "data-analysis-initial-exploration.mdc",
+    "data-visualization-rules.mdc",
+    "data-visualization-with-matplotlib-and-seaborn.mdc",
+    "error-handling-and-data-validation-rules.mdc",
+    "general-data-analysis-and-jupyter-notebook-rules.mdc",
+    "initial-data-analysis-steps.mdc",
+    "jupyter-notebook-best-practices.mdc",
+    "large-data-with-dask.mdc",
+    "pandas-data-manipulation-rules.mdc",
+    "performance-optimization-rules.mdc",
+    "python-data-analysis-general.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

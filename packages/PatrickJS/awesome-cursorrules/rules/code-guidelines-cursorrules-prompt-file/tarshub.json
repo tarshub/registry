@@ -1,0 +1,19 @@
+{
+  "name": "code-guidelines-cursorrules-prompt-file",
+  "description": "Cursor rules for code development with guidelines integration.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/code-guidelines-cursorrules-prompt-file",
+  "files": [
+    ".cursorrules",
+    "README.md",
+    "general-coding-rules.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "nativescript-cursorrules-prompt-file",
+  "description": "Cursor rules for NativeScript development.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/nativescript-cursorrules-prompt-file",
+  "files": [
+    ".cursorrules",
+    "nativescript---additional-instructions.mdc",
+    "nativescript---general-best-practices.mdc",
+    "nativescript---project-structure.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

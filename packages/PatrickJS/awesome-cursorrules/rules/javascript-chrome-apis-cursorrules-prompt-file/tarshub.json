@@ -1,0 +1,30 @@
+{
+  "name": "javascript-chrome-apis-cursorrules-prompt-file",
+  "description": "Cursor rules for JavaScript development with Chrome APIs integration.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/javascript-chrome-apis-cursorrules-prompt-file",
+  "files": [
+    ".cursorrules",
+    "README.md",
+    "api-usage-rules.mdc",
+    "chrome-extension-general-rules.mdc",
+    "chrome-extension-manifest-rules.mdc",
+    "development-process-rules.mdc",
+    "extension-architecture-guidelines.mdc",
+    "internationalization-rules.mdc",
+    "javascript-code-style-and-structure.mdc",
+    "performance-optimization-rules.mdc",
+    "publishing-rules.mdc",
+    "security-practices.mdc",
+    "testing-and-debugging-rules.mdc",
+    "ui-and-styling-rules.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

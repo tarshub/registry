@@ -1,0 +1,17 @@
+{
+  "name": "netlify-official-cursorrules-prompt-file",
+  "description": "Cursor rules for Netlify development with official integration.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/netlify-official-cursorrules-prompt-file",
+  "files": [
+    ".cursorrules"
+  ],
+  "contentType": "cursor-rules"
+}

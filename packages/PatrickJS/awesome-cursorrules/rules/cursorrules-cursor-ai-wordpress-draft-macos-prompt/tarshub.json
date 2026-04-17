@@ -1,0 +1,22 @@
+{
+  "name": "cursorrules-cursor-ai-wordpress-draft-macos-prompt",
+  "description": "Cursor rules for WordPress development on macOS.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/cursorrules-cursor-ai-wordpress-draft-macos-prompt",
+  "files": [
+    ".cursorrules",
+    "README.md",
+    "application-password-rule.mdc",
+    "initial-configuration-rule.mdc",
+    "new-user-experience-nux-flow-rule.mdc",
+    "project-overview-rule.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

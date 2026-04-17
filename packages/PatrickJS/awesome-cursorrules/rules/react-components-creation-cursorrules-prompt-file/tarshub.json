@@ -1,0 +1,23 @@
+{
+  "name": "react-components-creation-cursorrules-prompt-file",
+  "description": "Cursor rules for React component creation and development.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/react-components-creation-cursorrules-prompt-file",
+  "files": [
+    ".cursorrules",
+    "README.md",
+    "react-component-adaptation---post-generation-spa.mdc",
+    "react-component-adaptation---post-generation.mdc",
+    "react-component-creation---general.mdc",
+    "react-component-creation---spa-app.mdc",
+    "react-component-prompt-example.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

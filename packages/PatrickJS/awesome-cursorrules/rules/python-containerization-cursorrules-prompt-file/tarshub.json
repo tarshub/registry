@@ -1,0 +1,21 @@
+{
+  "name": "python-containerization-cursorrules-prompt-file",
+  "description": "Cursor rules for Python development with containerization integration.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/python-containerization-cursorrules-prompt-file",
+  "files": [
+    ".cursorrules",
+    "README.md",
+    "containerization-rules.mdc",
+    "database-algorithm-rules.mdc",
+    "python-general-rules.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

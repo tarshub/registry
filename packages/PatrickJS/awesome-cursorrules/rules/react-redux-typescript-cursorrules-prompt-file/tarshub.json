@@ -1,0 +1,23 @@
+{
+  "name": "react-redux-typescript-cursorrules-prompt-file",
+  "description": "Cursor rules for React development with Redux and TypeScript integration.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/react-redux-typescript-cursorrules-prompt-file",
+  "files": [
+    ".cursorrules",
+    "react-functional-components.mdc",
+    "redux-async-actions.mdc",
+    "redux-devtools-debugging.mdc",
+    "redux-folder-structure.mdc",
+    "redux-toolkit-best-practices.mdc",
+    "typescript-type-safety.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "project-epic-template-cursorrules-prompt-file",
+  "description": "Cursor rules for project development with epic template integration.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/project-epic-template-cursorrules-prompt-file",
+  "files": [
+    ".cursorrules",
+    "README.md"
+  ],
+  "contentType": "cursor-rules"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "es-module-nodejs-guidelines-cursorrules-prompt-fil",
+  "description": "Cursor rules for ES Module development with Node.js guidelines.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/es-module-nodejs-guidelines-cursorrules-prompt-fil",
+  "files": [
+    ".cursorrules",
+    "README.md",
+    "code-commenting-standards.mdc",
+    "code-style-and-improvements.mdc",
+    "general-project-practices.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

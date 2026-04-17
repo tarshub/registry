@@ -1,0 +1,22 @@
+{
+  "name": "go-backend-scalability-cursorrules-prompt-file",
+  "description": "Cursor rules for Go development with backend scalability.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/go-backend-scalability-cursorrules-prompt-file",
+  "files": [
+    ".cursorrules",
+    "README.md",
+    "backend-general-expert.mdc",
+    "database-interaction-best-practices.mdc",
+    "go-grpc-service-rule.mdc",
+    "protocol-buffer-definitions-rule.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

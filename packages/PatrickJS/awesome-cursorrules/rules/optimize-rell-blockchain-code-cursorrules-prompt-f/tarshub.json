@@ -1,0 +1,21 @@
+{
+  "name": "optimize-rell-blockchain-code-cursorrules-prompt-f",
+  "description": "Cursor rules for optimization development with Rell Blockchain code integration.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/optimize-rell-blockchain-code-cursorrules-prompt-f",
+  "files": [
+    ".cursorrules",
+    "README.md",
+    "general-programming-expert-rules.mdc",
+    "python-dependency-management-rules.mdc",
+    "rell-general-rules.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

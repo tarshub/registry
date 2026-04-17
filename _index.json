@@ -1,24 +1,6 @@
 {
-  "updated": "2026-04-17T16:00:00.000Z",
+  "updated": "2026-04-17T15:31:40.029Z",
   "packages": [
-    {
-      "id": "PatrickJS/awesome-cursorrules/rules/nextjs-typescript-cursorrules-prompt-file",
-      "name": "nextjs-typescript-cursorrules-prompt-file",
-      "author": "PatrickJS",
-      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
-      "repo": "PatrickJS/awesome-cursorrules/rules/nextjs-typescript-cursorrules-prompt-file",
-      "description": "Configuration files that enhance Cursor AI editor experience with custom rules and behaviors",
-      "keywords": [
-        "awesome",
-        "awesome-list",
-        "cursor",
-        "cursor-ai-editor",
-        "cursorrules"
-      ],
-      "files": 10,
-      "version": "1.0.0",
-      "contentType": "cursor-rules"
-    },
     {
       "id": "PatrickJS/awesome-cursorrules/rules/angular-novo-elements-cursorrules-prompt-file",
       "name": "angular-novo-elements-cursorrules-prompt-file",
@@ -106,6 +88,2886 @@
         "cursorrules"
       ],
       "files": 7,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/nextjs15-react19-vercelai-tailwind-cursorrules-prompt-file",
+      "name": "nextjs15-react19-vercelai-tailwind-cursorrules-prompt-file",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/nextjs15-react19-vercelai-tailwind-cursorrules-prompt-file",
+      "description": "Cursor rules for Next.js development with React 19, Vercel AI, and Tailwind CSS integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 14,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/cursorrules-cursor-ai-nextjs-14-tailwind-seo-setup",
+      "name": "cursorrules-cursor-ai-nextjs-14-tailwind-seo-setup",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/cursorrules-cursor-ai-nextjs-14-tailwind-seo-setup",
+      "description": "Cursor rules for Next.js development with Tailwind CSS and SEO optimization.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 9,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/nextjs-react-tailwind-cursorrules-prompt-file",
+      "name": "nextjs-react-tailwind-cursorrules-prompt-file",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/nextjs-react-tailwind-cursorrules-prompt-file",
+      "description": "Cursor rules for Next.js development with React and Tailwind CSS integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 9,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/nextjs-react-typescript-cursorrules-prompt-file",
+      "name": "nextjs-react-typescript-cursorrules-prompt-file",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/nextjs-react-typescript-cursorrules-prompt-file",
+      "description": "Cursor rules for Next.js development with React and TypeScript integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 8,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/nextjs-seo-dev-cursorrules-prompt-file",
+      "name": "nextjs-seo-dev-cursorrules-prompt-file",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/nextjs-seo-dev-cursorrules-prompt-file",
+      "description": "Cursor rules for Next.js development with SEO optimization.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 5,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/nextjs-supabase-todo-app-cursorrules-prompt-file",
+      "name": "nextjs-supabase-todo-app-cursorrules-prompt-file",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/nextjs-supabase-todo-app-cursorrules-prompt-file",
+      "description": "Cursor rules for Next.js development with Supabase integration for a Todo app.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 3,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/nextjs-tailwind-typescript-apps-cursorrules-prompt",
+      "name": "nextjs-tailwind-typescript-apps-cursorrules-prompt",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/nextjs-tailwind-typescript-apps-cursorrules-prompt",
+      "description": "Cursor rules for Next.js development with Tailwind CSS and TypeScript integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 5,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/nextjs-typescript-app-cursorrules-prompt-file",
+      "name": "nextjs-typescript-app-cursorrules-prompt-file",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/nextjs-typescript-app-cursorrules-prompt-file",
+      "description": "Cursor rules for Next.js development with TypeScript integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 5,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/nextjs-typescript-cursorrules-prompt-file",
+      "name": "nextjs-typescript-cursorrules-prompt-file",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/nextjs-typescript-cursorrules-prompt-file",
+      "description": "Cursor rules for Next.js development with TypeScript integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 11,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/nextjs-typescript-tailwind-cursorrules-prompt-file",
+      "name": "nextjs-typescript-tailwind-cursorrules-prompt-file",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/nextjs-typescript-tailwind-cursorrules-prompt-file",
+      "description": "Cursor rules for Next.js development with TypeScript and Tailwind CSS integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 7,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/nextjs-vercel-supabase-cursorrules-prompt-file",
+      "name": "nextjs-vercel-supabase-cursorrules-prompt-file",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/nextjs-vercel-supabase-cursorrules-prompt-file",
+      "description": "Cursor rules for Next.js development with Vercel and Supabase integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 5,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/nextjs-vercel-typescript-cursorrules-prompt-file",
+      "name": "nextjs-vercel-typescript-cursorrules-prompt-file",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/nextjs-vercel-typescript-cursorrules-prompt-file",
+      "description": "Cursor rules for Next.js development with Vercel and TypeScript integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 11,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/nextjs-app-router-cursorrules-prompt-file",
+      "name": "nextjs-app-router-cursorrules-prompt-file",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/nextjs-app-router-cursorrules-prompt-file",
+      "description": "Cursor rules for Next.js development with App Router integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 11,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/nextjs-material-ui-tailwind-css-cursorrules-prompt",
+      "name": "nextjs-material-ui-tailwind-css-cursorrules-prompt",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/nextjs-material-ui-tailwind-css-cursorrules-prompt",
+      "description": "Cursor rules for Next.js development with Material UI and Tailwind CSS integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 11,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/qwik-basic-cursorrules-prompt-file",
+      "name": "qwik-basic-cursorrules-prompt-file",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/qwik-basic-cursorrules-prompt-file",
+      "description": "Cursor rules for Qwik development with TypeScript and Vite integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 7,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/qwik-tailwind-cursorrules-prompt-file",
+      "name": "qwik-tailwind-cursorrules-prompt-file",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/qwik-tailwind-cursorrules-prompt-file",
+      "description": "Cursor rules for Qwik development with Tailwind CSS integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 12,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/react-components-creation-cursorrules-prompt-file",
+      "name": "react-components-creation-cursorrules-prompt-file",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/react-components-creation-cursorrules-prompt-file",
+      "description": "Cursor rules for React component creation and development.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 7,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/react-nextjs-ui-development-cursorrules-prompt-fil",
+      "name": "react-nextjs-ui-development-cursorrules-prompt-fil",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/react-nextjs-ui-development-cursorrules-prompt-fil",
+      "description": "Cursor rules for React development with Next.js UI integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 5,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/react-typescript-nextjs-nodejs-cursorrules-prompt-",
+      "name": "react-typescript-nextjs-nodejs-cursorrules-prompt-",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/react-typescript-nextjs-nodejs-cursorrules-prompt-",
+      "description": "Cursor rules for React development with TypeScript, Next.js, and Node.js integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 7,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/react-typescript-symfony-cursorrules-prompt-file",
+      "name": "react-typescript-symfony-cursorrules-prompt-file",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/react-typescript-symfony-cursorrules-prompt-file",
+      "description": "Cursor rules for React development with TypeScript and Symfony integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 6,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/solidjs-basic-cursorrules-prompt-file",
+      "name": "solidjs-basic-cursorrules-prompt-file",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/solidjs-basic-cursorrules-prompt-file",
+      "description": "Cursor rules for Solid.js development with basic setup.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 15,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/solidjs-typescript-cursorrules-prompt-file",
+      "name": "solidjs-typescript-cursorrules-prompt-file",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/solidjs-typescript-cursorrules-prompt-file",
+      "description": "Cursor rules for Solid.js development with TypeScript integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 6,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/solidjs-tailwind-cursorrules-prompt-file",
+      "name": "solidjs-tailwind-cursorrules-prompt-file",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/solidjs-tailwind-cursorrules-prompt-file",
+      "description": "Cursor rules for Solid.js development with Tailwind CSS integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 7,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/svelte-5-vs-svelte-4-cursorrules-prompt-file",
+      "name": "svelte-5-vs-svelte-4-cursorrules-prompt-file",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/svelte-5-vs-svelte-4-cursorrules-prompt-file",
+      "description": "Cursor rules for comparing Svelte 5 and Svelte 4 development.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 5,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/sveltekit-restful-api-tailwind-css-cursorrules-pro",
+      "name": "sveltekit-restful-api-tailwind-css-cursorrules-pro",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/sveltekit-restful-api-tailwind-css-cursorrules-pro",
+      "description": "Cursor rules for SvelteKit development with RESTful API and Tailwind CSS integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 18,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/sveltekit-tailwindcss-typescript-cursorrules-promp",
+      "name": "sveltekit-tailwindcss-typescript-cursorrules-promp",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/sveltekit-tailwindcss-typescript-cursorrules-promp",
+      "description": "Cursor rules for SvelteKit development with Tailwind CSS and TypeScript integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 19,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/sveltekit-typescript-guide-cursorrules-prompt-file",
+      "name": "sveltekit-typescript-guide-cursorrules-prompt-file",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/sveltekit-typescript-guide-cursorrules-prompt-file",
+      "description": "Cursor rules for SvelteKit development with TypeScript integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 7,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/vue-3-nuxt-3-development-cursorrules-prompt-file",
+      "name": "vue-3-nuxt-3-development-cursorrules-prompt-file",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/vue-3-nuxt-3-development-cursorrules-prompt-file",
+      "description": "Cursor rules for Vue 3 development with Nuxt 3 integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 5,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/vue-3-nuxt-3-typescript-cursorrules-prompt-file",
+      "name": "vue-3-nuxt-3-typescript-cursorrules-prompt-file",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/vue-3-nuxt-3-typescript-cursorrules-prompt-file",
+      "description": "Cursor rules for Vue 3 development with TypeScript integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 3,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/vue3-composition-api-cursorrules-prompt-file",
+      "name": "vue3-composition-api-cursorrules-prompt-file",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/vue3-composition-api-cursorrules-prompt-file",
+      "description": "Cursor rules for Vue 3 development with Composition API integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 9,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/convex-cursorrules-prompt-file",
+      "name": "convex-cursorrules-prompt-file",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/convex-cursorrules-prompt-file",
+      "description": "Cursor rules for Convex development with best practices.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 5,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/deno-integration-techniques-cursorrules-prompt-fil",
+      "name": "deno-integration-techniques-cursorrules-prompt-fil",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/deno-integration-techniques-cursorrules-prompt-fil",
+      "description": "Cursor rules for Deno development with integration techniques.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 6,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/drupal-11-cursorrules-prompt-file",
+      "name": "drupal-11-cursorrules-prompt-file",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/drupal-11-cursorrules-prompt-file",
+      "description": "Cursor rules for Drupal 11 development.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 2,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/elixir-engineer-guidelines-cursorrules-prompt-file",
+      "name": "elixir-engineer-guidelines-cursorrules-prompt-file",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/elixir-engineer-guidelines-cursorrules-prompt-file",
+      "description": "Cursor rules for Elixir development with engineer guidelines.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 4,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/elixir-phoenix-docker-setup-cursorrules-prompt-fil",
+      "name": "elixir-phoenix-docker-setup-cursorrules-prompt-fil",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/elixir-phoenix-docker-setup-cursorrules-prompt-fil",
+      "description": "Cursor rules for Elixir development with Phoenix and Docker integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 4,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/es-module-nodejs-guidelines-cursorrules-prompt-fil",
+      "name": "es-module-nodejs-guidelines-cursorrules-prompt-fil",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/es-module-nodejs-guidelines-cursorrules-prompt-fil",
+      "description": "Cursor rules for ES Module development with Node.js guidelines.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 5,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/go-backend-scalability-cursorrules-prompt-file",
+      "name": "go-backend-scalability-cursorrules-prompt-file",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/go-backend-scalability-cursorrules-prompt-file",
+      "description": "Cursor rules for Go development with backend scalability.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 6,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/go-servemux-rest-api-cursorrules-prompt-file",
+      "name": "go-servemux-rest-api-cursorrules-prompt-file",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/go-servemux-rest-api-cursorrules-prompt-file",
+      "description": "Cursor rules for Go development with ServeMux REST API integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 7,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/htmx-go-basic-cursorrules-prompt-file",
+      "name": "htmx-go-basic-cursorrules-prompt-file",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/htmx-go-basic-cursorrules-prompt-file",
+      "description": "Cursor rules for Go development with basic setup.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 4,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/htmx-go-fiber-cursorrules-prompt-file",
+      "name": "htmx-go-fiber-cursorrules-prompt-file",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/htmx-go-fiber-cursorrules-prompt-file",
+      "description": "Cursor rules for Go development with Fiber integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 5,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/go-temporal-dsl-prompt-file",
+      "name": "go-temporal-dsl-prompt-file",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/go-temporal-dsl-prompt-file",
+      "description": "Cursor rules for Go development with Temporal DSL integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 6,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/htmx-basic-cursorrules-prompt-file",
+      "name": "htmx-basic-cursorrules-prompt-file",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/htmx-basic-cursorrules-prompt-file",
+      "description": "Cursor rules for HTMX development with basic setup.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 4,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/htmx-flask-cursorrules-prompt-file",
+      "name": "htmx-flask-cursorrules-prompt-file",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/htmx-flask-cursorrules-prompt-file",
+      "description": "Cursor rules for HTMX development with Flask integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 4,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/htmx-django-cursorrules-prompt-file",
+      "name": "htmx-django-cursorrules-prompt-file",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/htmx-django-cursorrules-prompt-file",
+      "description": "Cursor rules for HTMX development with Django integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 9,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/java-springboot-jpa-cursorrules-prompt-file",
+      "name": "java-springboot-jpa-cursorrules-prompt-file",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/java-springboot-jpa-cursorrules-prompt-file",
+      "description": "Cursor rules for Java development with Springboot and JPA integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 10,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/knative-istio-typesense-gpu-cursorrules-prompt-fil",
+      "name": "knative-istio-typesense-gpu-cursorrules-prompt-fil",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/knative-istio-typesense-gpu-cursorrules-prompt-fil",
+      "description": "Cursor rules for Knative development with Istio, Typesense, and GPU integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 16,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/kotlin-ktor-development-cursorrules-prompt-file",
+      "name": "kotlin-ktor-development-cursorrules-prompt-file",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/kotlin-ktor-development-cursorrules-prompt-file",
+      "description": "Cursor rules for Kotlin development with Ktor integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 1,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/laravel-php-83-cursorrules-prompt-file",
+      "name": "laravel-php-83-cursorrules-prompt-file",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/laravel-php-83-cursorrules-prompt-file",
+      "description": "Cursor rules for Laravel development with PHP 8.3 integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 7,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/laravel-tall-stack-best-practices-cursorrules-prom",
+      "name": "laravel-tall-stack-best-practices-cursorrules-prom",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/laravel-tall-stack-best-practices-cursorrules-prom",
+      "description": "Cursor rules for Laravel development with TALL Stack best practices.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 11,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/manifest-yaml-cursorrules-prompt-file",
+      "name": "manifest-yaml-cursorrules-prompt-file",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/manifest-yaml-cursorrules-prompt-file",
+      "description": "Cursor rules for manifest development with YAML integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 2,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/nodejs-mongodb-cursorrules-prompt-file-tutorial",
+      "name": "nodejs-mongodb-cursorrules-prompt-file-tutorial",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/nodejs-mongodb-cursorrules-prompt-file-tutorial",
+      "description": "Cursor rules for Node.js development with MongoDB integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 15,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/nodejs-mongodb-jwt-express-react-cursorrules-promp",
+      "name": "nodejs-mongodb-jwt-express-react-cursorrules-promp",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/nodejs-mongodb-jwt-express-react-cursorrules-promp",
+      "description": "Cursor rules for Node.js development with MongoDB, JWT, Express, and React integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 20,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/rails-cursorrules-prompt-file",
+      "name": "rails-cursorrules-prompt-file",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/rails-cursorrules-prompt-file",
+      "description": "Cursor rules for Rails development with basic setup.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 3,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/py-fast-api",
+      "name": "py-fast-api",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/py-fast-api",
+      "description": "Cursor rules for Python FastAPI backend development and best practices.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 9,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/cursorrules-file-cursor-ai-python-fastapi-api",
+      "name": "cursorrules-file-cursor-ai-python-fastapi-api",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/cursorrules-file-cursor-ai-python-fastapi-api",
+      "description": "Cursor rules for Python FastAPI development with API integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 15,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/python-312-fastapi-best-practices-cursorrules-prom",
+      "name": "python-312-fastapi-best-practices-cursorrules-prom",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/python-312-fastapi-best-practices-cursorrules-prom",
+      "description": "Cursor rules for Python FastAPI development with best practices.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 8,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/python-django-best-practices-cursorrules-prompt-fi",
+      "name": "python-django-best-practices-cursorrules-prompt-fi",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/python-django-best-practices-cursorrules-prompt-fi",
+      "description": "Cursor rules for Python Django development with best practices.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 13,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/python-fastapi-best-practices-cursorrules-prompt-f",
+      "name": "python-fastapi-best-practices-cursorrules-prompt-f",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/python-fastapi-best-practices-cursorrules-prompt-f",
+      "description": "Cursor rules for Python FastAPI development with best practices.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 8,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/python-fastapi-scalable-api-cursorrules-prompt-fil",
+      "name": "python-fastapi-scalable-api-cursorrules-prompt-fil",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/python-fastapi-scalable-api-cursorrules-prompt-fil",
+      "description": "Cursor rules for Python FastAPI development with scalable API integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 9,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/python-flask-json-guide-cursorrules-prompt-file",
+      "name": "python-flask-json-guide-cursorrules-prompt-file",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/python-flask-json-guide-cursorrules-prompt-file",
+      "description": "Cursor rules for Python Flask development with JSON guide.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 5,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/python-llm-ml-workflow-cursorrules-prompt-file",
+      "name": "python-llm-ml-workflow-cursorrules-prompt-file",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/python-llm-ml-workflow-cursorrules-prompt-file",
+      "description": "Cursor rules for Python LLM & ML development with workflow integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 19,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/salesforce-apex-cursorrules-prompt-file",
+      "name": "salesforce-apex-cursorrules-prompt-file",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/salesforce-apex-cursorrules-prompt-file",
+      "description": "Cursor rules for Salesforce development with Apex integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 2,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/typescript-nestjs-best-practices-cursorrules-promp",
+      "name": "typescript-nestjs-best-practices-cursorrules-promp",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/typescript-nestjs-best-practices-cursorrules-promp",
+      "description": "Cursor rules for TypeScript development with NestJS best practices.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 8,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/typo3cms-extension-cursorrules-prompt-file",
+      "name": "typo3cms-extension-cursorrules-prompt-file",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/typo3cms-extension-cursorrules-prompt-file",
+      "description": "Cursor rules for TYPO3 CMS development with extension integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 2,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/wordpress-php-guzzle-gutenberg-cursorrules-prompt-",
+      "name": "wordpress-php-guzzle-gutenberg-cursorrules-prompt-",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/wordpress-php-guzzle-gutenberg-cursorrules-prompt-",
+      "description": "Cursor rules for WordPress development with PHP, Guzzle, and Gutenberg integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 6,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/cursorrules-cursor-ai-wordpress-draft-macos-prompt",
+      "name": "cursorrules-cursor-ai-wordpress-draft-macos-prompt",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/cursorrules-cursor-ai-wordpress-draft-macos-prompt",
+      "description": "Cursor rules for WordPress development on macOS.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 6,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/react-native-expo-cursorrules-prompt-file",
+      "name": "react-native-expo-cursorrules-prompt-file",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/react-native-expo-cursorrules-prompt-file",
+      "description": "Cursor rules for React Native Expo development.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 5,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/swiftui-guidelines-cursorrules-prompt-file",
+      "name": "swiftui-guidelines-cursorrules-prompt-file",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/swiftui-guidelines-cursorrules-prompt-file",
+      "description": "Cursor rules for SwiftUI development guidelines.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 5,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/typescript-expo-jest-detox-cursorrules-prompt-file",
+      "name": "typescript-expo-jest-detox-cursorrules-prompt-file",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/typescript-expo-jest-detox-cursorrules-prompt-file",
+      "description": "Cursor rules for TypeScript development with Expo, Jest, and Detox integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 12,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/android-jetpack-compose-cursorrules-prompt-file",
+      "name": "android-jetpack-compose-cursorrules-prompt-file",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/android-jetpack-compose-cursorrules-prompt-file",
+      "description": "Cursor rules for Android development with Jetpack Compose integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 6,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/flutter-app-expert-cursorrules-prompt-file",
+      "name": "flutter-app-expert-cursorrules-prompt-file",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/flutter-app-expert-cursorrules-prompt-file",
+      "description": "Cursor rules for Flutter development with expert integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 7,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/uikit-guidelines-cursorrules-prompt-file",
+      "name": "uikit-guidelines-cursorrules-prompt-file",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/uikit-guidelines-cursorrules-prompt-file",
+      "description": "Cursor rules for UIKit development guidelines.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 2,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/nativescript-cursorrules-prompt-file",
+      "name": "nativescript-cursorrules-prompt-file",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/nativescript-cursorrules-prompt-file",
+      "description": "Cursor rules for NativeScript development.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 4,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/tailwind-css-nextjs-guide-cursorrules-prompt-file",
+      "name": "tailwind-css-nextjs-guide-cursorrules-prompt-file",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/tailwind-css-nextjs-guide-cursorrules-prompt-file",
+      "description": "Cursor rules for Tailwind CSS development with Next.js integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 13,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/tailwind-react-firebase-cursorrules-prompt-file",
+      "name": "tailwind-react-firebase-cursorrules-prompt-file",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/tailwind-react-firebase-cursorrules-prompt-file",
+      "description": "Cursor rules for Tailwind development with React and Firebase integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 9,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/tailwind-shadcn-ui-integration-cursorrules-prompt-",
+      "name": "tailwind-shadcn-ui-integration-cursorrules-prompt-",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/tailwind-shadcn-ui-integration-cursorrules-prompt-",
+      "description": "Cursor rules for Tailwind development with shadcn/ui integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 4,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/html-tailwind-css-javascript-cursorrules-prompt-fi",
+      "name": "html-tailwind-css-javascript-cursorrules-prompt-fi",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/html-tailwind-css-javascript-cursorrules-prompt-fi",
+      "description": "Cursor rules for HTML development with Tailwind CSS and JavaScript integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 4,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/javascript-astro-tailwind-css-cursorrules-prompt-f",
+      "name": "javascript-astro-tailwind-css-cursorrules-prompt-f",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/javascript-astro-tailwind-css-cursorrules-prompt-f",
+      "description": "Cursor rules for JavaScript development with Astro and Tailwind CSS integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 19,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/react-styled-components-cursorrules-prompt-file",
+      "name": "react-styled-components-cursorrules-prompt-file",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/react-styled-components-cursorrules-prompt-file",
+      "description": "Cursor rules for React development with Styled Components integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 10,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/react-chakra-ui-cursorrules-prompt-file",
+      "name": "react-chakra-ui-cursorrules-prompt-file",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/react-chakra-ui-cursorrules-prompt-file",
+      "description": "Cursor rules for React development with Chakra UI integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 12,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/react-redux-typescript-cursorrules-prompt-file",
+      "name": "react-redux-typescript-cursorrules-prompt-file",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/react-redux-typescript-cursorrules-prompt-file",
+      "description": "Cursor rules for React development with Redux and TypeScript integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 7,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/react-mobx-cursorrules-prompt-file",
+      "name": "react-mobx-cursorrules-prompt-file",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/react-mobx-cursorrules-prompt-file",
+      "description": "Cursor rules for React development with MobX integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 12,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/react-query-cursorrules-prompt-file",
+      "name": "react-query-cursorrules-prompt-file",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/react-query-cursorrules-prompt-file",
+      "description": "Cursor rules for React development with React Query integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 6,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/react-graphql-apollo-client-cursorrules-prompt-file",
+      "name": "react-graphql-apollo-client-cursorrules-prompt-file",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/react-graphql-apollo-client-cursorrules-prompt-file",
+      "description": "Cursor rules for GraphQL development with Apollo Client integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 10,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/typescript-axios-cursorrules-prompt-file",
+      "name": "typescript-axios-cursorrules-prompt-file",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/typescript-axios-cursorrules-prompt-file",
+      "description": "Cursor rules for TypeScript development with Axios integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 4,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/cypress-api-testing-cursorrules-prompt-file",
+      "name": "cypress-api-testing-cursorrules-prompt-file",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/cypress-api-testing-cursorrules-prompt-file",
+      "description": "Cursor rules for Cypress development with API testing.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 2,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/cypress-accessibility-testing-cursorrules-prompt-file",
+      "name": "cypress-accessibility-testing-cursorrules-prompt-file",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/cypress-accessibility-testing-cursorrules-prompt-file",
+      "description": "Cursor rules for Cypress development with accessibility testing.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 2,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/cypress-defect-tracking-cursorrules-prompt-file",
+      "name": "cypress-defect-tracking-cursorrules-prompt-file",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/cypress-defect-tracking-cursorrules-prompt-file",
+      "description": "Cursor rules for Cypress development with defect tracking.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 3,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/cypress-e2e-testing-cursorrules-prompt-file",
+      "name": "cypress-e2e-testing-cursorrules-prompt-file",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/cypress-e2e-testing-cursorrules-prompt-file",
+      "description": "Cursor rules for Cypress development with E2E testing.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 2,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/cypress-integration-testing-cursorrules-prompt-file",
+      "name": "cypress-integration-testing-cursorrules-prompt-file",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/cypress-integration-testing-cursorrules-prompt-file",
+      "description": "Cursor rules for Cypress development with integration testing.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 2,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/jest-unit-testing-cursorrules-prompt-file",
+      "name": "jest-unit-testing-cursorrules-prompt-file",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/jest-unit-testing-cursorrules-prompt-file",
+      "description": "Cursor rules for Jest development with unit testing.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 2,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/playwright-api-testing-cursorrules-prompt-file",
+      "name": "playwright-api-testing-cursorrules-prompt-file",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/playwright-api-testing-cursorrules-prompt-file",
+      "description": "Cursor rules for Playwright development with API testing.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 2,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/playwright-accessibility-testing-cursorrules-prompt-file",
+      "name": "playwright-accessibility-testing-cursorrules-prompt-file",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/playwright-accessibility-testing-cursorrules-prompt-file",
+      "description": "Cursor rules for Playwright development with accessibility testing.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 2,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/playwright-defect-tracking-cursorrules-prompt-file",
+      "name": "playwright-defect-tracking-cursorrules-prompt-file",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/playwright-defect-tracking-cursorrules-prompt-file",
+      "description": "Cursor rules for Playwright development with defect tracking.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 2,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/playwright-e2e-testing-cursorrules-prompt-file",
+      "name": "playwright-e2e-testing-cursorrules-prompt-file",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/playwright-e2e-testing-cursorrules-prompt-file",
+      "description": "Cursor rules for Playwright development with E2E testing.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 2,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/playwright-integration-testing-cursorrules-prompt-file",
+      "name": "playwright-integration-testing-cursorrules-prompt-file",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/playwright-integration-testing-cursorrules-prompt-file",
+      "description": "Cursor rules for Playwright development with integration testing.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 2,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/pr-template-cursorrules-prompt-file",
+      "name": "pr-template-cursorrules-prompt-file",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/pr-template-cursorrules-prompt-file",
+      "description": "Cursor rules for PR development with template integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 2,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/qa-bug-report-cursorrules-prompt-file",
+      "name": "qa-bug-report-cursorrules-prompt-file",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/qa-bug-report-cursorrules-prompt-file",
+      "description": "Cursor rules for QA development with bug report integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 2,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/testrail-test-case-cursorrules-prompt-file",
+      "name": "testrail-test-case-cursorrules-prompt-file",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/testrail-test-case-cursorrules-prompt-file",
+      "description": "Cursor rules for TestRail development with test case integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 2,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/vitest-unit-testing-cursorrules-prompt-file",
+      "name": "vitest-unit-testing-cursorrules-prompt-file",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/vitest-unit-testing-cursorrules-prompt-file",
+      "description": "Cursor rules for Vitest development with unit testing.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 2,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/xray-test-case-cursorrules-prompt-file",
+      "name": "xray-test-case-cursorrules-prompt-file",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/xray-test-case-cursorrules-prompt-file",
+      "description": "Cursor rules for Xray development with test case integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 2,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/netlify-official-cursorrules-prompt-file",
+      "name": "netlify-official-cursorrules-prompt-file",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/netlify-official-cursorrules-prompt-file",
+      "description": "Cursor rules for Netlify development with official integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 1,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/chrome-extension-dev-js-typescript-cursorrules-pro",
+      "name": "chrome-extension-dev-js-typescript-cursorrules-pro",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/chrome-extension-dev-js-typescript-cursorrules-pro",
+      "description": "Cursor rules for Chrome extension development with JavaScript and TypeScript integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 12,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/engineering-ticket-template-cursorrules-prompt-file",
+      "name": "engineering-ticket-template-cursorrules-prompt-file",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/engineering-ticket-template-cursorrules-prompt-file",
+      "description": "Cursor rules for engineering development with ticket template integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 2,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/github-code-quality-cursorrules-prompt-file",
+      "name": "github-code-quality-cursorrules-prompt-file",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/github-code-quality-cursorrules-prompt-file",
+      "description": "Cursor rules for GitHub development with code quality integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 18,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/github-cursorrules-prompt-file-instructions",
+      "name": "github-cursorrules-prompt-file-instructions",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/github-cursorrules-prompt-file-instructions",
+      "description": "Cursor rules for GitHub development with instructions integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 9,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/git-conventional-commit-messages",
+      "name": "git-conventional-commit-messages",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/git-conventional-commit-messages",
+      "description": "Cursor rules for Git development with conventional commit messages integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 2,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/kubernetes-mkdocs-documentation-cursorrules-prompt",
+      "name": "kubernetes-mkdocs-documentation-cursorrules-prompt",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/kubernetes-mkdocs-documentation-cursorrules-prompt",
+      "description": "Cursor rules for Kubernetes development with MkDocs documentation integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 11,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/linux-nvidia-cuda-python-cursorrules-prompt-file",
+      "name": "linux-nvidia-cuda-python-cursorrules-prompt-file",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/linux-nvidia-cuda-python-cursorrules-prompt-file",
+      "description": "Cursor rules for Linux development with NVIDIA CUDA and Python integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 7,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/optimize-dry-solid-principles-cursorrules-prompt-f",
+      "name": "optimize-dry-solid-principles-cursorrules-prompt-f",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/optimize-dry-solid-principles-cursorrules-prompt-f",
+      "description": "Cursor rules for optimization development with DRY and SOLID principles integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 7,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/project-epic-template-cursorrules-prompt-file",
+      "name": "project-epic-template-cursorrules-prompt-file",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/project-epic-template-cursorrules-prompt-file",
+      "description": "Cursor rules for project development with epic template integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 2,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/python-containerization-cursorrules-prompt-file",
+      "name": "python-containerization-cursorrules-prompt-file",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/python-containerization-cursorrules-prompt-file",
+      "description": "Cursor rules for Python development with containerization integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 5,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/python-github-setup-cursorrules-prompt-file",
+      "name": "python-github-setup-cursorrules-prompt-file",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/python-github-setup-cursorrules-prompt-file",
+      "description": "Cursor rules for Python development with GitHub setup integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 22,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/tauri-svelte-typescript-guide-cursorrules-prompt-f",
+      "name": "tauri-svelte-typescript-guide-cursorrules-prompt-f",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/tauri-svelte-typescript-guide-cursorrules-prompt-f",
+      "description": "Cursor rules for Tauri development with Svelte and TypeScript guide integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 10,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/typescript-code-convention-cursorrules-prompt-file",
+      "name": "typescript-code-convention-cursorrules-prompt-file",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/typescript-code-convention-cursorrules-prompt-file",
+      "description": "Cursor rules for TypeScript development with code convention integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 12,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/javascript-typescript-code-quality-cursorrules-pro",
+      "name": "javascript-typescript-code-quality-cursorrules-pro",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/javascript-typescript-code-quality-cursorrules-pro",
+      "description": "Cursor rules for JavaScript and TypeScript development with code quality integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 12,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/javascript-chrome-apis-cursorrules-prompt-file",
+      "name": "javascript-chrome-apis-cursorrules-prompt-file",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/javascript-chrome-apis-cursorrules-prompt-file",
+      "description": "Cursor rules for JavaScript development with Chrome APIs integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 14,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/optimize-rell-blockchain-code-cursorrules-prompt-f",
+      "name": "optimize-rell-blockchain-code-cursorrules-prompt-f",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/optimize-rell-blockchain-code-cursorrules-prompt-f",
+      "description": "Cursor rules for optimization development with Rell Blockchain code integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 5,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/pandas-scikit-learn-guide-cursorrules-prompt-file",
+      "name": "pandas-scikit-learn-guide-cursorrules-prompt-file",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/pandas-scikit-learn-guide-cursorrules-prompt-file",
+      "description": "Cursor rules for Pandas development with scikit-learn guide integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 13,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/plasticode-telegram-api-cursorrules-prompt-file",
+      "name": "plasticode-telegram-api-cursorrules-prompt-file",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/plasticode-telegram-api-cursorrules-prompt-file",
+      "description": "Cursor rules for Plasticode development with Telegram API integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 6,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/pyqt6-eeg-processing-cursorrules-prompt-file",
+      "name": "pyqt6-eeg-processing-cursorrules-prompt-file",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/pyqt6-eeg-processing-cursorrules-prompt-file",
+      "description": "Cursor rules for PyQt6 development with EEG processing integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 7,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/python--typescript-guide-cursorrules-prompt-file",
+      "name": "python--typescript-guide-cursorrules-prompt-file",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/python--typescript-guide-cursorrules-prompt-file",
+      "description": "Cursor rules for Python development with TypeScript guide integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 7,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/python-cursorrules-prompt-file-best-practices",
+      "name": "python-cursorrules-prompt-file-best-practices",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/python-cursorrules-prompt-file-best-practices",
+      "description": "Cursor rules for Python development with best practices integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 9,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/python-developer-cursorrules-prompt-file",
+      "name": "python-developer-cursorrules-prompt-file",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/python-developer-cursorrules-prompt-file",
+      "description": "Cursor rules for Python development with developer integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 7,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/python-projects-guide-cursorrules-prompt-file",
+      "name": "python-projects-guide-cursorrules-prompt-file",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/python-projects-guide-cursorrules-prompt-file",
+      "description": "Cursor rules for Python development with projects guide integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 12,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/pytorch-scikit-learn-cursorrules-prompt-file",
+      "name": "pytorch-scikit-learn-cursorrules-prompt-file",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/pytorch-scikit-learn-cursorrules-prompt-file",
+      "description": "Cursor rules for PyTorch development with scikit-learn integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 11,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/r-cursorrules-prompt-file-best-practices",
+      "name": "r-cursorrules-prompt-file-best-practices",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/r-cursorrules-prompt-file-best-practices",
+      "description": "Cursor rules for R development with best practices integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 1,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/solidity-foundry-cursorrules-prompt-file",
+      "name": "solidity-foundry-cursorrules-prompt-file",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/solidity-foundry-cursorrules-prompt-file",
+      "description": "Cursor rules for Solidity development with Foundry integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 2,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/solidity-hardhat-cursorrules-prompt-file",
+      "name": "solidity-hardhat-cursorrules-prompt-file",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/solidity-hardhat-cursorrules-prompt-file",
+      "description": "Cursor rules for Solidity development with Hardhat integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 8,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/solidity-react-blockchain-apps-cursorrules-prompt-",
+      "name": "solidity-react-blockchain-apps-cursorrules-prompt-",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/solidity-react-blockchain-apps-cursorrules-prompt-",
+      "description": "Cursor rules for Solidity development with React Blockchain apps integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 3,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/typescript-llm-tech-stack-cursorrules-prompt-file",
+      "name": "typescript-llm-tech-stack-cursorrules-prompt-file",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/typescript-llm-tech-stack-cursorrules-prompt-file",
+      "description": "Cursor rules for TypeScript development with LLM tech stack integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 8,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/typescript-nodejs-nextjs-ai-cursorrules-prompt-fil",
+      "name": "typescript-nodejs-nextjs-ai-cursorrules-prompt-fil",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/typescript-nodejs-nextjs-ai-cursorrules-prompt-fil",
+      "description": "Cursor rules for TypeScript development with Node.js, Next.js, and AI integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 4,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/typescript-nodejs-nextjs-react-ui-css-cursorrules-",
+      "name": "typescript-nodejs-nextjs-react-ui-css-cursorrules-",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/typescript-nodejs-nextjs-react-ui-css-cursorrules-",
+      "description": "Cursor rules for TypeScript development with Node.js, Next.js, React, UI, and CSS integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 6,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/typescript-nodejs-react-vite-cursorrules-prompt-fi",
+      "name": "typescript-nodejs-react-vite-cursorrules-prompt-fi",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/typescript-nodejs-react-vite-cursorrules-prompt-fi",
+      "description": "Cursor rules for TypeScript development with Node.js, React, and Vite integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 4,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/typescript-react-nextjs-cloudflare-cursorrules-pro",
+      "name": "typescript-react-nextjs-cloudflare-cursorrules-pro",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/typescript-react-nextjs-cloudflare-cursorrules-pro",
+      "description": "Cursor rules for TypeScript development with React, Next.js, and Cloudflare integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 9,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/typescript-react-nextui-supabase-cursorrules-promp",
+      "name": "typescript-react-nextui-supabase-cursorrules-promp",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/typescript-react-nextui-supabase-cursorrules-promp",
+      "description": "Cursor rules for TypeScript development with React, NextUI, and Supabase integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 7,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/typescript-shadcn-ui-nextjs-cursorrules-prompt-fil",
+      "name": "typescript-shadcn-ui-nextjs-cursorrules-prompt-fil",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/typescript-shadcn-ui-nextjs-cursorrules-prompt-fil",
+      "description": "Cursor rules for TypeScript development with shadcn/ui and Next.js integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 10,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/typescript-vite-tailwind-cursorrules-prompt-file",
+      "name": "typescript-vite-tailwind-cursorrules-prompt-file",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/typescript-vite-tailwind-cursorrules-prompt-file",
+      "description": "Cursor rules for TypeScript development with Vite and Tailwind integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 8,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/typescript-vuejs-cursorrules-prompt-file",
+      "name": "typescript-vuejs-cursorrules-prompt-file",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/typescript-vuejs-cursorrules-prompt-file",
+      "description": "Cursor rules for TypeScript development with Vue.js integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 10,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/typescript-zod-tailwind-nextjs-cursorrules-prompt-",
+      "name": "typescript-zod-tailwind-nextjs-cursorrules-prompt-",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/typescript-zod-tailwind-nextjs-cursorrules-prompt-",
+      "description": "Cursor rules for TypeScript development with Zod, Tailwind, and Next.js integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 13,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/webassembly-z80-cellular-automata-cursorrules-prom",
+      "name": "webassembly-z80-cellular-automata-cursorrules-prom",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/webassembly-z80-cellular-automata-cursorrules-prom",
+      "description": "Cursor rules for WebAssembly development with Z80 Cellular Automata integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 13,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/typescript-nextjs-cursorrules-prompt-file",
+      "name": "typescript-nextjs-cursorrules-prompt-file",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/typescript-nextjs-cursorrules-prompt-file",
+      "description": "Cursor rules for TypeScript development with Next.js integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 11,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/typescript-nextjs-react-cursorrules-prompt-file",
+      "name": "typescript-nextjs-react-cursorrules-prompt-file",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/typescript-nextjs-react-cursorrules-prompt-file",
+      "description": "Cursor rules for TypeScript development with Next.js and React integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 6,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/typescript-nextjs-react-tailwind-supabase-cursorru",
+      "name": "typescript-nextjs-react-tailwind-supabase-cursorru",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/typescript-nextjs-react-tailwind-supabase-cursorru",
+      "description": "Cursor rules for TypeScript development with Next.js, React, Tailwind, and Supabase integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 10,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/typescript-nextjs-supabase-cursorrules-prompt-file",
+      "name": "typescript-nextjs-supabase-cursorrules-prompt-file",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/typescript-nextjs-supabase-cursorrules-prompt-file",
+      "description": "Cursor rules for TypeScript development with Next.js and Supabase integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 9,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/typescript-nodejs-nextjs-app-cursorrules-prompt-fi",
+      "name": "typescript-nodejs-nextjs-app-cursorrules-prompt-fi",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/typescript-nodejs-nextjs-app-cursorrules-prompt-fi",
+      "description": "Cursor rules for TypeScript development with Node.js and Next.js app integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 10,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/typescript-react-cursorrules-prompt-file",
+      "name": "typescript-react-cursorrules-prompt-file",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/typescript-react-cursorrules-prompt-file",
+      "description": "Cursor rules for TypeScript development with React integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 8,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/typescript-clasp-cursorrules-prompt-file",
+      "name": "typescript-clasp-cursorrules-prompt-file",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/typescript-clasp-cursorrules-prompt-file",
+      "description": "Cursor rules for TypeScript development with Clasp app script integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 10,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/cpp-programming-guidelines-cursorrules-prompt-file",
+      "name": "cpp-programming-guidelines-cursorrules-prompt-file",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/cpp-programming-guidelines-cursorrules-prompt-file",
+      "description": "Cursor rules for C++ development with programming guidelines integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 2,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/ascii-simulation-game-cursorrules-prompt-file",
+      "name": "ascii-simulation-game-cursorrules-prompt-file",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/ascii-simulation-game-cursorrules-prompt-file",
+      "description": "Cursor rules for ASCII simulation game development.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 7,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/code-guidelines-cursorrules-prompt-file",
+      "name": "code-guidelines-cursorrules-prompt-file",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/code-guidelines-cursorrules-prompt-file",
+      "description": "Cursor rules for code development with guidelines integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 3,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/code-style-consistency-cursorrules-prompt-file",
+      "name": "code-style-consistency-cursorrules-prompt-file",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/code-style-consistency-cursorrules-prompt-file",
+      "description": "Cursor rules for code development with style consistency integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 2,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/dragonruby-best-practices-cursorrules-prompt-file",
+      "name": "dragonruby-best-practices-cursorrules-prompt-file",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/dragonruby-best-practices-cursorrules-prompt-file",
+      "description": "Cursor rules for DragonRuby development with best practices integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 6,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/graphical-apps-development-cursorrules-prompt-file",
+      "name": "graphical-apps-development-cursorrules-prompt-file",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/graphical-apps-development-cursorrules-prompt-file",
+      "description": "Cursor rules for graphical apps development with integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 8,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/next-type-llm",
+      "name": "next-type-llm",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/next-type-llm",
+      "description": "Cursor rules for Next.js development with Type LLM integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 10,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/unity-cursor-ai-c-cursorrules-prompt-file",
+      "name": "unity-cursor-ai-c-cursorrules-prompt-file",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/unity-cursor-ai-c-cursorrules-prompt-file",
+      "description": "Cursor rules for Unity development with C# integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 6,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/web-app-optimization-cursorrules-prompt-file",
+      "name": "web-app-optimization-cursorrules-prompt-file",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/web-app-optimization-cursorrules-prompt-file",
+      "description": "Cursor rules for web app development with optimization integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 16,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/code-pair-interviews",
+      "name": "code-pair-interviews",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/code-pair-interviews",
+      "description": "Cursor rules for code pair interviews development with integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 2,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/gherkin-style-testing-cursorrules-prompt-file",
+      "name": "gherkin-style-testing-cursorrules-prompt-file",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/gherkin-style-testing-cursorrules-prompt-file",
+      "description": "Cursor rules for Gherkin style testing development with integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 2,
+      "version": "1.0.0",
+      "contentType": "cursor-rules"
+    },
+    {
+      "id": "PatrickJS/awesome-cursorrules/rules/how-to-documentation-cursorrules-prompt-file",
+      "name": "how-to-documentation-cursorrules-prompt-file",
+      "author": "PatrickJS",
+      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
+      "repo": "PatrickJS/awesome-cursorrules/rules/how-to-documentation-cursorrules-prompt-file",
+      "description": "Cursor rules for how-to documentation development with integration.",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "cursor-ai-editor",
+        "cursorrules"
+      ],
+      "files": 2,
       "version": "1.0.0",
       "contentType": "cursor-rules"
     },

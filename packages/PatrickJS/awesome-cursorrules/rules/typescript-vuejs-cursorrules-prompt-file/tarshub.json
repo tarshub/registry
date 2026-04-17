@@ -1,0 +1,26 @@
+{
+  "name": "typescript-vuejs-cursorrules-prompt-file",
+  "description": "Cursor rules for TypeScript development with Vue.js integration.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/typescript-vuejs-cursorrules-prompt-file",
+  "files": [
+    ".cursorrules",
+    "README.md",
+    "error-handling-and-validation.mdc",
+    "general-code-style-and-structure.mdc",
+    "naming-conventions.mdc",
+    "performance-optimization.mdc",
+    "syntax-and-formatting.mdc",
+    "typescript-usage.mdc",
+    "ui-and-styling.mdc",
+    "vue-js-conventions.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

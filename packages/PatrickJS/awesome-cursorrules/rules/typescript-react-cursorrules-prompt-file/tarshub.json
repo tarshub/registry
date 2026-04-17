@@ -1,0 +1,24 @@
+{
+  "name": "typescript-react-cursorrules-prompt-file",
+  "description": "Cursor rules for TypeScript development with React integration.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/typescript-react-cursorrules-prompt-file",
+  "files": [
+    ".cursorrules",
+    "accessibility-guidelines.mdc",
+    "performance-optimization.mdc",
+    "testing-guidelines.mdc",
+    "typescript-react---additional-instructions.mdc",
+    "typescript-react---best-practices.mdc",
+    "typescript-react---folder-structure.mdc",
+    "typescript-react---general-preferences.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

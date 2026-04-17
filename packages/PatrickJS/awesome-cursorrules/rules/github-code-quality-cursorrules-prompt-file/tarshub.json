@@ -1,0 +1,34 @@
+{
+  "name": "github-code-quality-cursorrules-prompt-file",
+  "description": "Cursor rules for GitHub development with code quality integration.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/github-code-quality-cursorrules-prompt-file",
+  "files": [
+    ".cursorrules",
+    "README.md",
+    "check-x-md-content-rule.mdc",
+    "file-by-file-changes-rule.mdc",
+    "no-apologies-rule.mdc",
+    "no-current-implementation-rule.mdc",
+    "no-implementation-checks-rule.mdc",
+    "no-inventions-rule.mdc",
+    "no-previous-x-md-consideration-rule.mdc",
+    "no-summaries-rule.mdc",
+    "no-understanding-feedback-rule.mdc",
+    "no-unnecessary-confirmations-rule.mdc",
+    "no-unnecessary-updates-rule.mdc",
+    "no-whitespace-suggestions-rule.mdc",
+    "preserve-existing-code-rule.mdc",
+    "provide-real-file-links-rule.mdc",
+    "single-chunk-edits-rule.mdc",
+    "verify-information-rule.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

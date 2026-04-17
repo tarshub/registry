@@ -1,0 +1,31 @@
+{
+  "name": "solidjs-basic-cursorrules-prompt-file",
+  "description": "Cursor rules for Solid.js development with basic setup.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/solidjs-basic-cursorrules-prompt-file",
+  "files": [
+    ".cursorrules",
+    "solidjs---complex-state-management.mdc",
+    "solidjs---conditional-and-list-rendering.mdc",
+    "solidjs---data-fetching.mdc",
+    "solidjs---derived-values-management.mdc",
+    "solidjs---error-boundaries.mdc",
+    "solidjs---functional-components-preference.mdc",
+    "solidjs---jsx-templates.mdc",
+    "solidjs---lazy-loading.mdc",
+    "solidjs---naming-conventions.mdc",
+    "solidjs---optimization-features.mdc",
+    "solidjs---reactive-state-management.mdc",
+    "solidjs---server-side-rendering.mdc",
+    "solidjs---side-effects-handling.mdc",
+    "solidjs---solid-router.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

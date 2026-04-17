@@ -1,0 +1,29 @@
+{
+  "name": "webassembly-z80-cellular-automata-cursorrules-prom",
+  "description": "Cursor rules for WebAssembly development with Z80 Cellular Automata integration.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/webassembly-z80-cellular-automata-cursorrules-prom",
+  "files": [
+    ".cursorrules",
+    "README.md",
+    "data-synchronization-rules.mdc",
+    "general-z80-cellular-automata-simulation-rules.mdc",
+    "main-simulation-loop-modification-rules.mdc",
+    "parameter-specific-logic-rules.mdc",
+    "region-grid-creation-rules.mdc",
+    "region-structure-definition-rules.mdc",
+    "region-visualization-system-rules.mdc",
+    "shader-code-update-rules.mdc",
+    "soup-cell-to-region-mapping-rules.mdc",
+    "user-interface-development-rules.mdc",
+    "wasm-interface-enhancement-rules.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

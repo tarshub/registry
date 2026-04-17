@@ -1,0 +1,23 @@
+{
+  "name": "sveltekit-typescript-guide-cursorrules-prompt-file",
+  "description": "Cursor rules for SvelteKit development with TypeScript integration.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/sveltekit-typescript-guide-cursorrules-prompt-file",
+  "files": [
+    ".cursorrules",
+    "README.md",
+    "class-based-state-management.mdc",
+    "component-development-rules.mdc",
+    "drizzle-orm-rules.mdc",
+    "general-sveltekit-typescript-rules.mdc",
+    "supabase-integration-rules.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

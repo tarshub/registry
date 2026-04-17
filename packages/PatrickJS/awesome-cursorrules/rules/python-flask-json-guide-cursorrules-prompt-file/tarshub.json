@@ -1,0 +1,21 @@
+{
+  "name": "python-flask-json-guide-cursorrules-prompt-file",
+  "description": "Cursor rules for Python Flask development with JSON guide.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/python-flask-json-guide-cursorrules-prompt-file",
+  "files": [
+    ".cursorrules",
+    "README.md",
+    "drawscape-factorio-usage.mdc",
+    "general-python-rules.mdc",
+    "json-data-handling.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "laravel-php-83-cursorrules-prompt-file",
+  "description": "Cursor rules for Laravel development with PHP 8.3 integration.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/laravel-php-83-cursorrules-prompt-file",
+  "files": [
+    ".cursorrules",
+    "README.md",
+    "laravel-package-coding-standards.mdc",
+    "laravel-package-development-guidelines.mdc",
+    "laravel-package-structure.mdc",
+    "laravel-package-testing-and-documentation.mdc",
+    "readme-md-guidelines.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

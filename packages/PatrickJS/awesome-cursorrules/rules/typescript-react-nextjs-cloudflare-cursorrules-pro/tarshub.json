@@ -1,0 +1,25 @@
+{
+  "name": "typescript-react-nextjs-cloudflare-cursorrules-pro",
+  "description": "Cursor rules for TypeScript development with React, Next.js, and Cloudflare integration.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/typescript-react-nextjs-cloudflare-cursorrules-pro",
+  "files": [
+    ".cursorrules",
+    "README.md",
+    "cloudflare-developer-tools-rule.mdc",
+    "general-typescript-node-js-next-js-rule.mdc",
+    "key-conventions-rule.mdc",
+    "naming-conventions-rule.mdc",
+    "performance-optimization-rule.mdc",
+    "terminal-commands-rule.mdc",
+    "ui-and-styling-rule.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

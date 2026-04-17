@@ -1,0 +1,22 @@
+{
+  "name": "typescript-nodejs-nextjs-react-ui-css-cursorrules-",
+  "description": "Cursor rules for TypeScript development with Node.js, Next.js, React, UI, and CSS integration.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/typescript-nodejs-nextjs-react-ui-css-cursorrules-",
+  "files": [
+    ".cursorrules",
+    "README.md",
+    "general-typescript-node-js-next-js-app-router-react-rule.mdc",
+    "next-js-app-router-optimization-rule.mdc",
+    "typescript-usage-rule.mdc",
+    "ui-component-styling-rule.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

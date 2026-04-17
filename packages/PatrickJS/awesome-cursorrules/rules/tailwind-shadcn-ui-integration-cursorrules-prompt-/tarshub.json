@@ -1,0 +1,20 @@
+{
+  "name": "tailwind-shadcn-ui-integration-cursorrules-prompt-",
+  "description": "Cursor rules for Tailwind development with shadcn/ui integration.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/tailwind-shadcn-ui-integration-cursorrules-prompt-",
+  "files": [
+    ".cursorrules",
+    "README.md",
+    "general-typescript-nextjs-rule.mdc",
+    "nextjs-component-rule.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

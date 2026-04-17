@@ -1,0 +1,32 @@
+{
+  "name": "knative-istio-typesense-gpu-cursorrules-prompt-fil",
+  "description": "Cursor rules for Knative development with Istio, Typesense, and GPU integration.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/knative-istio-typesense-gpu-cursorrules-prompt-fil",
+  "files": [
+    ".cursorrules",
+    "README.md",
+    "backend-api-development.mdc",
+    "backend-development-rules.mdc",
+    "frontend-development-rules.mdc",
+    "general-knative-istio-typesense-htmx-gpu-applications.mdc",
+    "htmx-frontend-development.mdc",
+    "istio-service-mesh-configuration.mdc",
+    "istio-specific-rules.mdc",
+    "knative-service-guidance.mdc",
+    "knative-specific-rules.mdc",
+    "project-wide-rules.mdc",
+    "testing-and-monitoring-guidance.mdc",
+    "testing-and-monitoring-rules.mdc",
+    "typesense-search-engine-configuration.mdc",
+    "typesense-specific-rules.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

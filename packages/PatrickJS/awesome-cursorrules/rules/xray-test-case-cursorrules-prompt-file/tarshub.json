@@ -1,0 +1,18 @@
+{
+  "name": "xray-test-case-cursorrules-prompt-file",
+  "description": "Cursor rules for Xray development with test case integration.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/xray-test-case-cursorrules-prompt-file",
+  "files": [
+    ".cursorrules",
+    "README.md"
+  ],
+  "contentType": "cursor-rules"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "wordpress-php-guzzle-gutenberg-cursorrules-prompt-",
+  "description": "Cursor rules for WordPress development with PHP, Guzzle, and Gutenberg integration.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/wordpress-php-guzzle-gutenberg-cursorrules-prompt-",
+  "files": [
+    ".cursorrules",
+    "README.md",
+    "functional-programming-preference.mdc",
+    "javascript-typescript-coding-standards.mdc",
+    "php-coding-standards.mdc",
+    "wordpress-plugin-general-rules.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

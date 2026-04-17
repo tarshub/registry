@@ -1,0 +1,23 @@
+{
+  "name": "qwik-basic-cursorrules-prompt-file",
+  "description": "Cursor rules for Qwik development with TypeScript and Vite integration.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/qwik-basic-cursorrules-prompt-file",
+  "files": [
+    ".cursorrules",
+    "qwik-js---best-practices.mdc",
+    "qwik-js---error-handling-optimization.mdc",
+    "qwik-js---folder-structure.mdc",
+    "qwik-js---general-preferences.mdc",
+    "qwik-js---naming-conventions.mdc",
+    "qwik-js---typescript-usage.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

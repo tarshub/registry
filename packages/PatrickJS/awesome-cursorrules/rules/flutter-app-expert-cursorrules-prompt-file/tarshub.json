@@ -1,0 +1,23 @@
+{
+  "name": "flutter-app-expert-cursorrules-prompt-file",
+  "description": "Cursor rules for Flutter development with expert integration.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/flutter-app-expert-cursorrules-prompt-file",
+  "files": [
+    ".cursorrules",
+    "flutter-core-rules.mdc",
+    "flutter-feature-rules.mdc",
+    "flutter-general-best-practices.mdc",
+    "flutter-performance-rules.mdc",
+    "flutter-presentation-rules.mdc",
+    "flutter-testing-rules.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

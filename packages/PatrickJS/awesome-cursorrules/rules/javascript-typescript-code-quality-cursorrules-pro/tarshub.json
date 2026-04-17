@@ -1,0 +1,28 @@
+{
+  "name": "javascript-typescript-code-quality-cursorrules-pro",
+  "description": "Cursor rules for JavaScript and TypeScript development with code quality integration.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/javascript-typescript-code-quality-cursorrules-pro",
+  "files": [
+    ".cursorrules",
+    "README.md",
+    "bug-handling-with-todo-comments.mdc",
+    "coding-guidelines---dry-and-functional-style.mdc",
+    "coding-guidelines---early-returns-and-conditionals.mdc",
+    "coding-guidelines---naming-and-constants.mdc",
+    "function-ordering-conventions.mdc",
+    "general-coding-principles.mdc",
+    "javascript-documentation-with-jsdoc.mdc",
+    "minimal-code-changes-rule.mdc",
+    "persona---senior-full-stack-developer.mdc",
+    "typescript-skip-jsdoc.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

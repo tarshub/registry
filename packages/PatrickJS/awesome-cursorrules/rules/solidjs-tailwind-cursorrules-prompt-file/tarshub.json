@@ -1,0 +1,23 @@
+{
+  "name": "solidjs-tailwind-cursorrules-prompt-file",
+  "description": "Cursor rules for Solid.js development with Tailwind CSS integration.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/solidjs-tailwind-cursorrules-prompt-file",
+  "files": [
+    ".cursorrules",
+    "solidjs-folder-structure.mdc",
+    "solidjs-functional-components.mdc",
+    "solidjs-tailwind-additional-instructions.mdc",
+    "solidjs-tailwind-css-best-practices.mdc",
+    "tailwind-css-configuration.mdc",
+    "tailwind-css-styling.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

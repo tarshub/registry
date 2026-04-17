@@ -1,0 +1,29 @@
+{
+  "name": "python-django-best-practices-cursorrules-prompt-fi",
+  "description": "Cursor rules for Python Django development with best practices.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/python-django-best-practices-cursorrules-prompt-fi",
+  "files": [
+    ".cursorrules",
+    "README.md",
+    "django-forms.mdc",
+    "django-middleware.mdc",
+    "django-models.mdc",
+    "django-rest-framework.mdc",
+    "django-settings.mdc",
+    "django-templates.mdc",
+    "django-urls.mdc",
+    "django-views.mdc",
+    "performance-optimization.mdc",
+    "python-django-general.mdc",
+    "security.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

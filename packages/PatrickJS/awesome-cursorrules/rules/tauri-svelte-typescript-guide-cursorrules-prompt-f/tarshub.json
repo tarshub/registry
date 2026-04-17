@@ -1,0 +1,26 @@
+{
+  "name": "tauri-svelte-typescript-guide-cursorrules-prompt-f",
+  "description": "Cursor rules for Tauri development with Svelte and TypeScript guide integration.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/tauri-svelte-typescript-guide-cursorrules-prompt-f",
+  "files": [
+    ".cursorrules",
+    "README.md",
+    "backend-communication-rules.mdc",
+    "build-and-deployment-rules.mdc",
+    "general-project-conventions.mdc",
+    "tauri-native-api-integration.mdc",
+    "tauri-security-rules.mdc",
+    "tauri-svelte-typescript-general.mdc",
+    "tauri-svelte-ui-components.mdc",
+    "testing-rules.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

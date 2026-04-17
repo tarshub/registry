@@ -1,0 +1,30 @@
+{
+  "name": "nextjs15-react19-vercelai-tailwind-cursorrules-prompt-file",
+  "description": "Cursor rules for Next.js development with React 19, Vercel AI, and Tailwind CSS integration.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/nextjs15-react19-vercelai-tailwind-cursorrules-prompt-file",
+  "files": [
+    ".cursorrules",
+    "README.md",
+    "accessibility-guidelines.mdc",
+    "directory-naming-conventions.mdc",
+    "error-handling-patterns.mdc",
+    "general-typescript-and-react-rules.mdc",
+    "next-js-15-async-request-api-rules.mdc",
+    "next-js-15-component-architecture-rules.mdc",
+    "next-js-15-state-management-rules.mdc",
+    "performance-optimization.mdc",
+    "react-19-specific-features.mdc",
+    "tailwind-css-best-practices.mdc",
+    "testing-guidelines.mdc",
+    "vercel-ai-sdk-best-practices.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

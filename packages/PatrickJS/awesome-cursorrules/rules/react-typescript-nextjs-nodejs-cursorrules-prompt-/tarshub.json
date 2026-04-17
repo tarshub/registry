@@ -1,0 +1,23 @@
+{
+  "name": "react-typescript-nextjs-nodejs-cursorrules-prompt-",
+  "description": "Cursor rules for React development with TypeScript, Next.js, and Node.js integration.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/react-typescript-nextjs-nodejs-cursorrules-prompt-",
+  "files": [
+    ".cursorrules",
+    "README.md",
+    "general-project-rules.mdc",
+    "next-js-core-principles.mdc",
+    "next-js-server-action-rules.mdc",
+    "react-next-js-component-rules.mdc",
+    "typescript-javascript-rules.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

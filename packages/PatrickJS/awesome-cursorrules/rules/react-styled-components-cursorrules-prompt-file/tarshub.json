@@ -1,0 +1,26 @@
+{
+  "name": "react-styled-components-cursorrules-prompt-file",
+  "description": "Cursor rules for React development with Styled Components integration.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/react-styled-components-cursorrules-prompt-file",
+  "files": [
+    ".cursorrules",
+    "react-functional-components-preference.mdc",
+    "styled-components---attrs-method.mdc",
+    "styled-components---conditional-styling-css-prop.mdc",
+    "styled-components---css-in-js.mdc",
+    "styled-components---documentation.mdc",
+    "styled-components---naming-conventions.mdc",
+    "styled-components---theming.mdc",
+    "styled-components---typescript-support.mdc",
+    "styled-components-best-practices---general.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

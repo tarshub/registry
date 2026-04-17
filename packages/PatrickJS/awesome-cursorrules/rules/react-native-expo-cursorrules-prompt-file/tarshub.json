@@ -1,0 +1,21 @@
+{
+  "name": "react-native-expo-cursorrules-prompt-file",
+  "description": "Cursor rules for React Native Expo development.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/react-native-expo-cursorrules-prompt-file",
+  "files": [
+    ".cursorrules",
+    "react-native-expo---additional-instructions.mdc",
+    "react-native-expo---general-best-practices.mdc",
+    "react-native-expo---project-structure.mdc",
+    "react-native-expo---root-files.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

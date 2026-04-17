@@ -1,0 +1,25 @@
+{
+  "name": "github-cursorrules-prompt-file-instructions",
+  "description": "Cursor rules for GitHub development with instructions integration.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/github-cursorrules-prompt-file-instructions",
+  "files": [
+    ".cursorrules",
+    "README.md",
+    "code-writing-standards.mdc",
+    "comment-usage.mdc",
+    "conditional-encapsulation.mdc",
+    "dry-principle.mdc",
+    "function-length-and-responsibility.mdc",
+    "general-code-style-and-readability.mdc",
+    "naming-conventions.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

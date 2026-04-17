@@ -1,0 +1,28 @@
+{
+  "name": "python-projects-guide-cursorrules-prompt-file",
+  "description": "Cursor rules for Python development with projects guide integration.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/python-projects-guide-cursorrules-prompt-file",
+  "files": [
+    ".cursorrules",
+    "README.md",
+    "python-ai-friendly-coding-practices-rule.mdc",
+    "python-ci-cd-implementation-rule.mdc",
+    "python-code-style-consistency-rule.mdc",
+    "python-configuration-management-rule.mdc",
+    "python-dependency-management-rule.mdc",
+    "python-documentation-rule.mdc",
+    "python-error-handling-and-logging-rule.mdc",
+    "python-modular-design-rule.mdc",
+    "python-project-structure-rule.mdc",
+    "python-testing-with-pytest-rule.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

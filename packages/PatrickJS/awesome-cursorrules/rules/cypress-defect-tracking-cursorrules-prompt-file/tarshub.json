@@ -1,0 +1,19 @@
+{
+  "name": "cypress-defect-tracking-cursorrules-prompt-file",
+  "description": "Cursor rules for Cypress development with defect tracking.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/cypress-defect-tracking-cursorrules-prompt-file",
+  "files": [
+    ".cursorrules",
+    "README.md",
+    "use-case-example.md"
+  ],
+  "contentType": "cursor-rules"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "kotlin-ktor-development-cursorrules-prompt-file",
+  "description": "Cursor rules for Kotlin development with Ktor integration.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/kotlin-ktor-development-cursorrules-prompt-file",
+  "files": [
+    ".cursorrules"
+  ],
+  "contentType": "cursor-rules"
+}

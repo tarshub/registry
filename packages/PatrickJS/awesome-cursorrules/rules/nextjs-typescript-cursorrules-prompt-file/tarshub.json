@@ -1,6 +1,6 @@
 {
   "name": "nextjs-typescript-cursorrules-prompt-file",
-  "description": "Configuration files that enhance Cursor AI editor experience with custom rules and behaviors",
+  "description": "Cursor rules for Next.js development with TypeScript integration.",
   "keywords": [
     "awesome",
     "awesome-list",
@@ -11,6 +11,7 @@
   "version": "1.0.0",
   "repo": "PatrickJS/awesome-cursorrules/rules/nextjs-typescript-cursorrules-prompt-file",
   "files": [
+    ".cursorrules",
     "README.md",
     "assistant-response-rules.mdc",
     "backend-stack-rules.mdc",

@@ -1,0 +1,20 @@
+{
+  "name": "elixir-phoenix-docker-setup-cursorrules-prompt-fil",
+  "description": "Cursor rules for Elixir development with Phoenix and Docker integration.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/elixir-phoenix-docker-setup-cursorrules-prompt-fil",
+  "files": [
+    ".cursorrules",
+    "README.md",
+    "commit-message-generation-rule.mdc",
+    "elixir-general-engineering-rule.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

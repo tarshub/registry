@@ -1,0 +1,22 @@
+{
+  "name": "go-temporal-dsl-prompt-file",
+  "description": "Cursor rules for Go development with Temporal DSL integration.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/go-temporal-dsl-prompt-file",
+  "files": [
+    ".cursorrules",
+    "activities.mdc",
+    "example-usage.mdc",
+    "guide.mdc",
+    "index.mdc",
+    "workflow.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

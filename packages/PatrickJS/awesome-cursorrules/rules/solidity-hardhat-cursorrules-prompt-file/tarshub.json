@@ -1,0 +1,24 @@
+{
+  "name": "solidity-hardhat-cursorrules-prompt-file",
+  "description": "Cursor rules for Solidity development with Hardhat integration.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/solidity-hardhat-cursorrules-prompt-file",
+  "files": [
+    ".cursorrules",
+    "README.md",
+    "hardhat-development-workflow.mdc",
+    "solidity-best-practices.mdc",
+    "solidity-documentation.mdc",
+    "solidity-general-rules.mdc",
+    "solidity-performance-optimization.mdc",
+    "solidity-testing-and-quality-assurance.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

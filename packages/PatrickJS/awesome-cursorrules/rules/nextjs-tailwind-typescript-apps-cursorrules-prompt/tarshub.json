@@ -1,0 +1,21 @@
+{
+  "name": "nextjs-tailwind-typescript-apps-cursorrules-prompt",
+  "description": "Cursor rules for Next.js development with Tailwind CSS and TypeScript integration.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/nextjs-tailwind-typescript-apps-cursorrules-prompt",
+  "files": [
+    ".cursorrules",
+    "README.md",
+    "langchain-rag-application-development.mdc",
+    "next-js-tailwind-typescript-expert---general.mdc",
+    "supabase-integration-in-next-js.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

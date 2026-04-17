@@ -1,0 +1,18 @@
+{
+  "name": "drupal-11-cursorrules-prompt-file",
+  "description": "Cursor rules for Drupal 11 development.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/drupal-11-cursorrules-prompt-file",
+  "files": [
+    ".cursorrules",
+    "README.md"
+  ],
+  "contentType": "cursor-rules"
+}

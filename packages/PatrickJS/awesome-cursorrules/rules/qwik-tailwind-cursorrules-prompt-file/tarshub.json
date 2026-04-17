@@ -1,0 +1,28 @@
+{
+  "name": "qwik-tailwind-cursorrules-prompt-file",
+  "description": "Cursor rules for Qwik development with Tailwind CSS integration.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/qwik-tailwind-cursorrules-prompt-file",
+  "files": [
+    ".cursorrules",
+    "qwik-and-tailwind-best-practices.mdc",
+    "qwik-city-routing.mdc",
+    "qwik-folder-structure.mdc",
+    "qwik-functional-components-preference.mdc",
+    "qwik-server-side-code.mdc",
+    "qwik-tailwind-naming-conventions.mdc",
+    "qwik-typescript-usage.mdc",
+    "tailwind-css-purging.mdc",
+    "tailwind-custom-styles.mdc",
+    "tailwind-dark-mode.mdc",
+    "vite-plugins-for-qwik.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

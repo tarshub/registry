@@ -1,0 +1,21 @@
+{
+  "name": "convex-cursorrules-prompt-file",
+  "description": "Cursor rules for Convex development with best practices.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/convex-cursorrules-prompt-file",
+  "files": [
+    ".cursorrules",
+    "convex-development---general.mdc",
+    "convex-schema-design---built-in-types.mdc",
+    "convex-schema-design---example-schema.mdc",
+    "convex-schema-design---system-fields.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

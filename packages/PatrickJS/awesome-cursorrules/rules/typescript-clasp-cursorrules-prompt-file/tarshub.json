@@ -1,0 +1,26 @@
+{
+  "name": "typescript-clasp-cursorrules-prompt-file",
+  "description": "Cursor rules for TypeScript development with Clasp app script integration.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/typescript-clasp-cursorrules-prompt-file",
+  "files": [
+    ".cursorrules",
+    "README.md",
+    "code-style-and-structure-rule.mdc",
+    "general-typescript-google-apps-script-rule.mdc",
+    "google-apps-script-specifics-rule.mdc",
+    "key-conventions-rule.mdc",
+    "naming-conventions-rule.mdc",
+    "performance-optimization-rule.mdc",
+    "syntax-and-formatting-rule.mdc",
+    "typescript-specific-usage-rule.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

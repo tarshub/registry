@@ -1,0 +1,29 @@
+{
+  "name": "typescript-zod-tailwind-nextjs-cursorrules-prompt-",
+  "description": "Cursor rules for TypeScript development with Zod, Tailwind, and Next.js integration.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/typescript-zod-tailwind-nextjs-cursorrules-prompt-",
+  "files": [
+    ".cursorrules",
+    "README.md",
+    "error-handling-and-validation.mdc",
+    "general-typescript-coding-style.mdc",
+    "key-conventions.mdc",
+    "naming-conventions.mdc",
+    "next-js.mdc",
+    "performance-optimization.mdc",
+    "react-remix.mdc",
+    "react-server-components-rsc.mdc",
+    "syntax-and-formatting.mdc",
+    "typescript-specific-rules.mdc",
+    "ui-and-styling.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

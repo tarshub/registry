@@ -1,0 +1,28 @@
+{
+  "name": "chrome-extension-dev-js-typescript-cursorrules-pro",
+  "description": "Cursor rules for Chrome extension development with JavaScript and TypeScript integration.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/chrome-extension-dev-js-typescript-cursorrules-pro",
+  "files": [
+    ".cursorrules",
+    "README.md",
+    "browser-api-usage-rules.mdc",
+    "chrome-extension-general-rules.mdc",
+    "code-output-rules.mdc",
+    "extension-architecture-rules.mdc",
+    "javascript-typescript-code-style.mdc",
+    "manifest-and-permissions-rules.mdc",
+    "performance-optimization-rules.mdc",
+    "security-and-privacy-rules.mdc",
+    "typescript-usage-rules.mdc",
+    "ui-and-styling-rules.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

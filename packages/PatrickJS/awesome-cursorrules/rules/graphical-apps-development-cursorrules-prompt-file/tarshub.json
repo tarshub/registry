@@ -1,0 +1,24 @@
+{
+  "name": "graphical-apps-development-cursorrules-prompt-file",
+  "description": "Cursor rules for graphical apps development with integration.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/graphical-apps-development-cursorrules-prompt-file",
+  "files": [
+    ".cursorrules",
+    "README.md",
+    "element-file-structure-rules.mdc",
+    "general-project-rules.mdc",
+    "general-python-project-rules.mdc",
+    "langchain-integration-rules.mdc",
+    "panel-view-rules.mdc",
+    "param-parameterized-class-rules.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

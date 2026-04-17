@@ -1,0 +1,28 @@
+{
+  "name": "react-chakra-ui-cursorrules-prompt-file",
+  "description": "Cursor rules for React development with Chakra UI integration.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/react-chakra-ui-cursorrules-prompt-file",
+  "files": [
+    ".cursorrules",
+    "chakra-ui---accessibility-features.mdc",
+    "chakra-ui---component-composition.mdc",
+    "chakra-ui---dark-mode-implementation.mdc",
+    "chakra-ui---performance-optimization.mdc",
+    "chakra-ui---responsive-design.mdc",
+    "chakra-ui---semantic-html-rendering.mdc",
+    "chakra-ui---theme-directory-rules.mdc",
+    "chakra-ui-best-practices.mdc",
+    "react-chakra-ui---folder-structure.mdc",
+    "react-chakra-ui---general-preferences.mdc",
+    "react-chakra-ui---typescript-usage.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

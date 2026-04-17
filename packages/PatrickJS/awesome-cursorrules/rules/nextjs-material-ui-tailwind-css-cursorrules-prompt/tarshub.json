@@ -1,0 +1,27 @@
+{
+  "name": "nextjs-material-ui-tailwind-css-cursorrules-prompt",
+  "description": "Cursor rules for Next.js development with Material UI and Tailwind CSS integration.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/nextjs-material-ui-tailwind-css-cursorrules-prompt",
+  "files": [
+    ".cursorrules",
+    "README.md",
+    "aceternity-ui-configuration.mdc",
+    "bcrypt-rules.mdc",
+    "ckeditor-rules.mdc",
+    "framer-motion-rules.mdc",
+    "material-ui-configuration.mdc",
+    "next-js-project-setup.mdc",
+    "prisma-orm-rules.mdc",
+    "shadcn-ui-configuration.mdc",
+    "tailwind-css-configuration.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

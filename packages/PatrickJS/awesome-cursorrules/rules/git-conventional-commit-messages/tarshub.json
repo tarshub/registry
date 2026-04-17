@@ -1,0 +1,18 @@
+{
+  "name": "git-conventional-commit-messages",
+  "description": "Cursor rules for Git development with conventional commit messages integration.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/git-conventional-commit-messages",
+  "files": [
+    ".cursorrules",
+    "README.md"
+  ],
+  "contentType": "cursor-rules"
+}

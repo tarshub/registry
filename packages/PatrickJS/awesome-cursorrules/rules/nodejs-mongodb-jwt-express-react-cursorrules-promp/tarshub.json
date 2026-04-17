@@ -1,0 +1,36 @@
+{
+  "name": "nodejs-mongodb-jwt-express-react-cursorrules-promp",
+  "description": "Cursor rules for Node.js development with MongoDB, JWT, Express, and React integration.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/nodejs-mongodb-jwt-express-react-cursorrules-promp",
+  "files": [
+    ".cursorrules",
+    "README.md",
+    "admin-interface-rule.mdc",
+    "entry-creation-rule.mdc",
+    "entry-management-rules.mdc",
+    "frontend-tech-stack.mdc",
+    "general-coding-style.mdc",
+    "payment-tracking-rule.mdc",
+    "pick-management-rules.mdc",
+    "request-and-entry-tracking-rule.mdc",
+    "request-limit-rule.mdc",
+    "results-and-standings-rules.mdc",
+    "scoring-and-ranking-rules.mdc",
+    "state-transition-rule.mdc",
+    "strategic-planning-with-pseudocode.mdc",
+    "strict-user-requirements-adherence.mdc",
+    "submission-process-outline.mdc",
+    "tech-stack.mdc",
+    "user-flow-rules.mdc",
+    "weekly-scoring-process-pseudocode.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "nextjs-app-router-cursorrules-prompt-file",
+  "description": "Cursor rules for Next.js development with App Router integration.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/nextjs-app-router-cursorrules-prompt-file",
+  "files": [
+    ".cursorrules",
+    "next-js-additional-instructions.mdc",
+    "next-js-app-router-best-practices.mdc",
+    "next-js-env-variables.mdc",
+    "next-js-error-handling.mdc",
+    "next-js-folder-structure.mdc",
+    "next-js-image-optimization.mdc",
+    "next-js-naming-conventions.mdc",
+    "next-js-seo-guidelines.mdc",
+    "next-js-styling-conventions.mdc",
+    "next-js-typescript-usage.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "svelte-5-vs-svelte-4-cursorrules-prompt-file",
+  "description": "Cursor rules for comparing Svelte 5 and Svelte 4 development.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/svelte-5-vs-svelte-4-cursorrules-prompt-file",
+  "files": [
+    ".cursorrules",
+    "README.md",
+    "svelte-5-component-structure---snippets.mdc",
+    "svelte-5-general-rules.mdc",
+    "svelte-5-reactivity-handling.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

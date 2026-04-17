@@ -1,0 +1,23 @@
+{
+  "name": "pyqt6-eeg-processing-cursorrules-prompt-file",
+  "description": "Cursor rules for PyQt6 development with EEG processing integration.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/pyqt6-eeg-processing-cursorrules-prompt-file",
+  "files": [
+    ".cursorrules",
+    "README.md",
+    "eeg-signal-processing-rules.mdc",
+    "pyqt6-ui-development-rules.mdc",
+    "python-general-rules.mdc",
+    "root-level-project-instructions.mdc",
+    "workflow-and-integration-rules.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

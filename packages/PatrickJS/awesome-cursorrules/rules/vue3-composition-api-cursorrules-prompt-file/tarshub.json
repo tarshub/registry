@@ -1,0 +1,25 @@
+{
+  "name": "vue3-composition-api-cursorrules-prompt-file",
+  "description": "Cursor rules for Vue 3 development with Composition API integration.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/vue3-composition-api-cursorrules-prompt-file",
+  "files": [
+    ".cursorrules",
+    "accessibility-guidelines.mdc",
+    "performance-optimization.mdc",
+    "testing-guidelines.mdc",
+    "vue-3-additional-instructions.mdc",
+    "vue-3-composition-api---composables.mdc",
+    "vue-3-composition-api---general.mdc",
+    "vue-3-project-structure.mdc",
+    "vue-3-typescript-guidelines.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

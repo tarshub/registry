@@ -1,0 +1,19 @@
+{
+  "name": "vue-3-nuxt-3-typescript-cursorrules-prompt-file",
+  "description": "Cursor rules for Vue 3 development with TypeScript integration.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/vue-3-nuxt-3-typescript-cursorrules-prompt-file",
+  "files": [
+    ".cursorrules",
+    "README.md",
+    "python-general-rules---service-1.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

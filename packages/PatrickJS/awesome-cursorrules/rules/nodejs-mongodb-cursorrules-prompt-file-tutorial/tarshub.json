@@ -1,0 +1,31 @@
+{
+  "name": "nodejs-mongodb-cursorrules-prompt-file-tutorial",
+  "description": "Cursor rules for Node.js development with MongoDB integration.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/nodejs-mongodb-cursorrules-prompt-file-tutorial",
+  "files": [
+    ".cursorrules",
+    "README.md",
+    "admin-interface-rules.mdc",
+    "api-endpoint-summarization.mdc",
+    "deployment-rule.mdc",
+    "entry-management-rules.mdc",
+    "frontend-react-rule.mdc",
+    "general-backend-node-js-express-rule.mdc",
+    "pick-management-rules.mdc",
+    "pools-user-flow-rules.mdc",
+    "request-state-transitions.mdc",
+    "results-and-standings-rules.mdc",
+    "scoring-and-ranking-rules.mdc",
+    "strategic-planning-with-pseudocode.mdc",
+    "version-control-rule.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "typescript-nodejs-react-vite-cursorrules-prompt-fi",
+  "description": "Cursor rules for TypeScript development with Node.js, React, and Vite integration.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/typescript-nodejs-react-vite-cursorrules-prompt-fi",
+  "files": [
+    ".cursorrules",
+    "README.md",
+    "general-typescript-node-js-react-rule.mdc",
+    "performance-optimization-rule.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

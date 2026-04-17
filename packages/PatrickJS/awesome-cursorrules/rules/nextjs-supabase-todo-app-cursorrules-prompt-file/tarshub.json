@@ -1,0 +1,19 @@
+{
+  "name": "nextjs-supabase-todo-app-cursorrules-prompt-file",
+  "description": "Cursor rules for Next.js development with Supabase integration for a Todo app.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/nextjs-supabase-todo-app-cursorrules-prompt-file",
+  "files": [
+    ".cursorrules",
+    "README.md",
+    "todo-app-general-rules.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

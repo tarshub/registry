@@ -1,0 +1,31 @@
+{
+  "name": "cursorrules-file-cursor-ai-python-fastapi-api",
+  "description": "Cursor rules for Python FastAPI development with API integration.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/cursorrules-file-cursor-ai-python-fastapi-api",
+  "files": [
+    ".cursorrules",
+    "README.md",
+    "error-handling-priorities.mdc",
+    "fastapi-blocking-operations.mdc",
+    "fastapi-components-and-validation.mdc",
+    "fastapi-conditional-statements.mdc",
+    "fastapi-dependencies.mdc",
+    "fastapi-dependency-injection.mdc",
+    "fastapi-file-structure.mdc",
+    "fastapi-function-definitions.mdc",
+    "fastapi-middleware.mdc",
+    "fastapi-performance-metrics.mdc",
+    "fastapi-performance-optimization.mdc",
+    "fastapi-startup-and-shutdown-events.mdc",
+    "python-general-style.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

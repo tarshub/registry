@@ -1,0 +1,18 @@
+{
+  "name": "jest-unit-testing-cursorrules-prompt-file",
+  "description": "Cursor rules for Jest development with unit testing.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/jest-unit-testing-cursorrules-prompt-file",
+  "files": [
+    ".cursorrules",
+    "README.md"
+  ],
+  "contentType": "cursor-rules"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "htmx-go-fiber-cursorrules-prompt-file",
+  "description": "Cursor rules for Go development with Fiber integration.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/htmx-go-fiber-cursorrules-prompt-file",
+  "files": [
+    ".cursorrules",
+    "fiber-logging-and-project-structure.mdc",
+    "fiber-routing-and-csrf-protection.mdc",
+    "htmx-go-and-fiber-best-practices-general.mdc",
+    "recommended-folder-structure.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

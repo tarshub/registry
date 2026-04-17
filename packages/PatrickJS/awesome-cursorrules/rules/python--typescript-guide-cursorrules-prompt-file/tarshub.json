@@ -1,0 +1,23 @@
+{
+  "name": "python--typescript-guide-cursorrules-prompt-file",
+  "description": "Cursor rules for Python development with TypeScript guide integration.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/python--typescript-guide-cursorrules-prompt-file",
+  "files": [
+    ".cursorrules",
+    "README.md",
+    "django-framework-rules.mdc",
+    "general-ai-behavior-rules.mdc",
+    "python-and-typescript-code-style.mdc",
+    "react-framework-rules.mdc",
+    "tailwind-and-inertiajs-rules.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

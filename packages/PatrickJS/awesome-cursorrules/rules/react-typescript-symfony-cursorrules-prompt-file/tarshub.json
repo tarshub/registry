@@ -1,0 +1,22 @@
+{
+  "name": "react-typescript-symfony-cursorrules-prompt-file",
+  "description": "Cursor rules for React development with TypeScript and Symfony integration.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/react-typescript-symfony-cursorrules-prompt-file",
+  "files": [
+    ".cursorrules",
+    "README.md",
+    "full-stack-developer-persona.mdc",
+    "general-ai-programming-assistant.mdc",
+    "latest-language-versions-and-best-practices.mdc",
+    "thoughtful-and-accurate-responses.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "htmx-flask-cursorrules-prompt-file",
+  "description": "Cursor rules for HTMX development with Flask integration.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/htmx-flask-cursorrules-prompt-file",
+  "files": [
+    ".cursorrules",
+    "additional-htmx-and-flask-instructions.mdc",
+    "flask-folder-structure.mdc",
+    "htmx-and-flask-best-practices.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "python-llm-ml-workflow-cursorrules-prompt-file",
+  "description": "Cursor rules for Python LLM & ML development with workflow integration.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/python-llm-ml-workflow-cursorrules-prompt-file",
+  "files": [
+    ".cursorrules",
+    "README.md",
+    "asynchronous-programming-preference.mdc",
+    "code-formatting-with-ruff.mdc",
+    "comprehensive-type-annotations.mdc",
+    "comprehensive-unit-testing-with-pytest.mdc",
+    "data-pipeline-management-with-dvc.mdc",
+    "data-validation-with-pydantic.mdc",
+    "detailed-docstrings.mdc",
+    "experiment-configuration-with-hydra-yaml.mdc",
+    "fastapi-web-framework.mdc",
+    "google-style-docstrings.mdc",
+    "llm-prompt-engineering.mdc",
+    "logging-module-usage.mdc",
+    "prioritize-python-3-10-features.mdc",
+    "python-general-role-definition.mdc",
+    "testing-framework-pytest.mdc",
+    "type-hinting-rule.mdc",
+    "uv-dependency-management.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

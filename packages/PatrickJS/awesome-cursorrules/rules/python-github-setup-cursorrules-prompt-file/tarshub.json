@@ -1,0 +1,38 @@
+{
+  "name": "python-github-setup-cursorrules-prompt-file",
+  "description": "Cursor rules for Python development with GitHub setup integration.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/python-github-setup-cursorrules-prompt-file",
+  "files": [
+    ".cursorrules",
+    "README.md",
+    "clarification-requirement.mdc",
+    "communication-tone.mdc",
+    "handle-incomplete-tasks.mdc",
+    "project-specific-build-tool.mdc",
+    "project-specific-testing-framework.mdc",
+    "project-verbosity-level.mdc",
+    "python-architecture.mdc",
+    "python-code-formatting.mdc",
+    "python-code-review.mdc",
+    "python-configuration-management.mdc",
+    "python-dependency-management.mdc",
+    "python-documentation.mdc",
+    "python-error-handling.mdc",
+    "python-general-coding-style.mdc",
+    "python-logging.mdc",
+    "python-monitoring.mdc",
+    "python-naming-conventions.mdc",
+    "python-security.mdc",
+    "python-testing.mdc",
+    "python-version-control.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

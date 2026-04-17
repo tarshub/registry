@@ -1,0 +1,18 @@
+{
+  "name": "cpp-programming-guidelines-cursorrules-prompt-file",
+  "description": "Cursor rules for C++ development with programming guidelines integration.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/cpp-programming-guidelines-cursorrules-prompt-file",
+  "files": [
+    ".cursorrules",
+    "README.md"
+  ],
+  "contentType": "cursor-rules"
+}

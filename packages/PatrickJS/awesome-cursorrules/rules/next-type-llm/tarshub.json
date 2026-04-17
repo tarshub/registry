@@ -1,0 +1,26 @@
+{
+  "name": "next-type-llm",
+  "description": "Cursor rules for Next.js development with Type LLM integration.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/next-type-llm",
+  "files": [
+    ".cursorrules",
+    "README.md",
+    "assistant-response-rules.mdc",
+    "coding-process-rules.mdc",
+    "coding-style-rules.mdc",
+    "editing-code-rules.mdc",
+    "general-project-assistant-rules.mdc",
+    "llm-integration-rules.mdc",
+    "technology-stack-backend-rules.mdc",
+    "technology-stack-frontend-rules.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

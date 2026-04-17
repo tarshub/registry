@@ -1,0 +1,25 @@
+{
+  "name": "python-cursorrules-prompt-file-best-practices",
+  "description": "Cursor rules for Python development with best practices integration.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/python-cursorrules-prompt-file-best-practices",
+  "files": [
+    ".cursorrules",
+    "README.md",
+    "ai-friendly-coding-practices.mdc",
+    "ci-cd-implementation-rule.mdc",
+    "configuration-management-rule.mdc",
+    "error-handling-and-logging-rule.mdc",
+    "modular-design-rule.mdc",
+    "project-structure-rule.mdc",
+    "python-general-rules.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

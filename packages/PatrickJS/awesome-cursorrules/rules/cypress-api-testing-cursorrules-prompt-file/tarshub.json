@@ -1,0 +1,18 @@
+{
+  "name": "cypress-api-testing-cursorrules-prompt-file",
+  "description": "Cursor rules for Cypress development with API testing.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/cypress-api-testing-cursorrules-prompt-file",
+  "files": [
+    ".cursorrules",
+    "README.md"
+  ],
+  "contentType": "cursor-rules"
+}

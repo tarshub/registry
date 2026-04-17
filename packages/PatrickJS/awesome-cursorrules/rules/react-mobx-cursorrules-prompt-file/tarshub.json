@@ -1,0 +1,28 @@
+{
+  "name": "react-mobx-cursorrules-prompt-file",
+  "description": "Cursor rules for React development with MobX integration.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/react-mobx-cursorrules-prompt-file",
+  "files": [
+    ".cursorrules",
+    "folder-structure.mdc",
+    "mobx-best-practices.mdc",
+    "mobx-dependency-injection.mdc",
+    "mobx-devtools.mdc",
+    "mobx-react-lite-usage.mdc",
+    "mobx-reaction-usage.mdc",
+    "mobx-store-implementation.mdc",
+    "mobx-strict-mode.mdc",
+    "observer-hoc-or-useobserver-hook.mdc",
+    "react-general-preferences.mdc",
+    "typescript-with-mobx.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

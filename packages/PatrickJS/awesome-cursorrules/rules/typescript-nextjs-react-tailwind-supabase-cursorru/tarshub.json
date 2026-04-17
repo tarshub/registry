@@ -1,0 +1,26 @@
+{
+  "name": "typescript-nextjs-react-tailwind-supabase-cursorru",
+  "description": "Cursor rules for TypeScript development with Next.js, React, Tailwind, and Supabase integration.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/typescript-nextjs-react-tailwind-supabase-cursorru",
+  "files": [
+    ".cursorrules",
+    "README.md",
+    "agp-router-rules.mdc",
+    "next-js-general-rules.mdc",
+    "radix-ui-specific-rules.mdc",
+    "react-general-rules.mdc",
+    "shaden-ue-specific-rules.mdc",
+    "supabase-specific-rules.mdc",
+    "testing-with-nose-js-and-tastains.mdc",
+    "typescript-general-rules.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

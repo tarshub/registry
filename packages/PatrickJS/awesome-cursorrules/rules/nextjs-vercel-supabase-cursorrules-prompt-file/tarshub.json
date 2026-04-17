@@ -1,0 +1,21 @@
+{
+  "name": "nextjs-vercel-supabase-cursorrules-prompt-file",
+  "description": "Cursor rules for Next.js development with Vercel and Supabase integration.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/nextjs-vercel-supabase-cursorrules-prompt-file",
+  "files": [
+    ".cursorrules",
+    "README.md",
+    "devias-template-integration.mdc",
+    "general-ba-copilot-rules.mdc",
+    "general-project-setup.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

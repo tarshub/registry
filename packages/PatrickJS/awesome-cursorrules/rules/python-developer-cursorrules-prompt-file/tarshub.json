@@ -1,0 +1,23 @@
+{
+  "name": "python-developer-cursorrules-prompt-file",
+  "description": "Cursor rules for Python development with developer integration.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/python-developer-cursorrules-prompt-file",
+  "files": [
+    ".cursorrules",
+    "README.md",
+    "dependencies-management-rules.mdc",
+    "general-python-development.mdc",
+    "project-technology-stack-context.mdc",
+    "python-code-style.mdc",
+    "python-version.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

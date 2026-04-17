@@ -1,0 +1,25 @@
+{
+  "name": "python-fastapi-scalable-api-cursorrules-prompt-fil",
+  "description": "Cursor rules for Python FastAPI development with scalable API integration.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/python-fastapi-scalable-api-cursorrules-prompt-fil",
+  "files": [
+    ".cursorrules",
+    "README.md",
+    "backend-performance-optimization.mdc",
+    "docker-configuration.mdc",
+    "fastapi-backend-conventions.mdc",
+    "frontend-performance-optimization.mdc",
+    "general-python-backend-rules.mdc",
+    "general-typescript-frontend-rules.mdc",
+    "react-frontend-conventions.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

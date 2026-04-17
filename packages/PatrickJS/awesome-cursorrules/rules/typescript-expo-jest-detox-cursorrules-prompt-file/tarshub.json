@@ -1,0 +1,28 @@
+{
+  "name": "typescript-expo-jest-detox-cursorrules-prompt-file",
+  "description": "Cursor rules for TypeScript development with Expo, Jest, and Detox integration.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/typescript-expo-jest-detox-cursorrules-prompt-file",
+  "files": [
+    ".cursorrules",
+    "README.md",
+    "api-documentation-rule.mdc",
+    "error-handling-and-validation-rule.mdc",
+    "expo-framework-rule.mdc",
+    "general-typescript-rule.mdc",
+    "internationalization-rule.mdc",
+    "mobile-ui-development-rule.mdc",
+    "naming-conventions-rule.mdc",
+    "react-native-core-rule.mdc",
+    "security-practices-rule.mdc",
+    "testing-conventions-rule.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

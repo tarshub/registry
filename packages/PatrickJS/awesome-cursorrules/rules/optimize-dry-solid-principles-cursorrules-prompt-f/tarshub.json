@@ -1,0 +1,23 @@
+{
+  "name": "optimize-dry-solid-principles-cursorrules-prompt-f",
+  "description": "Cursor rules for optimization development with DRY and SOLID principles integration.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/optimize-dry-solid-principles-cursorrules-prompt-f",
+  "files": [
+    ".cursorrules",
+    "README.md",
+    "code-quality-and-best-practices.mdc",
+    "communication-and-problem-solving.mdc",
+    "general-python-rules.mdc",
+    "python-dependency-management.mdc",
+    "response-formatting.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "solidjs-typescript-cursorrules-prompt-file",
+  "description": "Cursor rules for Solid.js development with TypeScript integration.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/solidjs-typescript-cursorrules-prompt-file",
+  "files": [
+    ".cursorrules",
+    "solidjs-functional-components-preference.mdc",
+    "solidjs-project-folder-structure.mdc",
+    "solidjs-typescript-best-practices.mdc",
+    "solidjs-typescript-coding-standards.mdc",
+    "tsconfig-json-rules.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

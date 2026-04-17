@@ -1,0 +1,28 @@
+{
+  "name": "typescript-code-convention-cursorrules-prompt-file",
+  "description": "Cursor rules for TypeScript development with code convention integration.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/typescript-code-convention-cursorrules-prompt-file",
+  "files": [
+    ".cursorrules",
+    "README.md",
+    "expo-mobile-app-rule.mdc",
+    "general-project-rule.mdc",
+    "general-typescript-rule.mdc",
+    "next-js-app-router-rule.mdc",
+    "node-js-backend-rule.mdc",
+    "radix-ui-rule.mdc",
+    "react-component-rule.mdc",
+    "shadcn-ui-rule.mdc",
+    "tailwind-css-styling-rule.mdc",
+    "trpc-api-rule.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

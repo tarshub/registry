@@ -1,0 +1,22 @@
+{
+  "name": "unity-cursor-ai-c-cursorrules-prompt-file",
+  "description": "Cursor rules for Unity development with C# integration.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/unity-cursor-ai-c-cursorrules-prompt-file",
+  "files": [
+    ".cursorrules",
+    "README.md",
+    "general-c-unity-tower-defense-rules.mdc",
+    "refactoring-guidance.mdc",
+    "ringcon-controller-integration-rules.mdc",
+    "turret-mechanics-rules.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

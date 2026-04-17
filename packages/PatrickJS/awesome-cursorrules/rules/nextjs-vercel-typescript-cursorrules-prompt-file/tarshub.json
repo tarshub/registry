@@ -1,0 +1,27 @@
+{
+  "name": "nextjs-vercel-typescript-cursorrules-prompt-file",
+  "description": "Cursor rules for Next.js development with Vercel and TypeScript integration.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/nextjs-vercel-typescript-cursorrules-prompt-file",
+  "files": [
+    ".cursorrules",
+    "README.md",
+    "ai-sdk-rsc-integration-rules.mdc",
+    "general-project-rules.mdc",
+    "general-typescript-rules.mdc",
+    "image-optimization-rules.mdc",
+    "middleware-implementation-rules.mdc",
+    "next-js-server-component-rules.mdc",
+    "performance-optimization-rules.mdc",
+    "ui-component-styling-rules.mdc",
+    "vercel-kv-database-rules.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

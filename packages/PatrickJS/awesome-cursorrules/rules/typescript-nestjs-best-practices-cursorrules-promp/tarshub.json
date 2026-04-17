@@ -1,0 +1,24 @@
+{
+  "name": "typescript-nestjs-best-practices-cursorrules-promp",
+  "description": "Cursor rules for TypeScript development with NestJS best practices.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/typescript-nestjs-best-practices-cursorrules-promp",
+  "files": [
+    ".cursorrules",
+    "README.md",
+    "nestjs-core-module-guidelines.mdc",
+    "nestjs-general-guidelines.mdc",
+    "nestjs-module-structure-guidelines.mdc",
+    "nestjs-shared-module-guidelines.mdc",
+    "nestjs-testing-guidelines.mdc",
+    "typescript-general-guidelines.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

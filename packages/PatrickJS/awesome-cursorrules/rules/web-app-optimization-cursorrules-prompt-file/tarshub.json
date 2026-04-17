@@ -1,0 +1,32 @@
+{
+  "name": "web-app-optimization-cursorrules-prompt-file",
+  "description": "Cursor rules for web app development with optimization integration.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/web-app-optimization-cursorrules-prompt-file",
+  "files": [
+    ".cursorrules",
+    "README.md",
+    "accessibility-rules.mdc",
+    "configuration-management.mdc",
+    "form-and-actions-in-sveltekit.mdc",
+    "paraglide-js-internationalization-i18n.mdc",
+    "performance-optimization-techniques.mdc",
+    "seo-and-meta-tags-in-sveltekit.mdc",
+    "svelte-and-sveltekit-general-rules.mdc",
+    "svelte-runes-usage.mdc",
+    "sveltekit-api-routes.mdc",
+    "sveltekit-project-structure.mdc",
+    "sveltekit-routing-and-pages.mdc",
+    "sveltekit-ssr-and-ssg.mdc",
+    "tailwind-css-and-shadcn-ui-conventions.mdc",
+    "typescript-rules-for-svelte-components.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

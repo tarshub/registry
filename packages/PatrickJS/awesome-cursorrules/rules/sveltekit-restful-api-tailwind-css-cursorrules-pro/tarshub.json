@@ -1,0 +1,34 @@
+{
+  "name": "sveltekit-restful-api-tailwind-css-cursorrules-pro",
+  "description": "Cursor rules for SvelteKit development with RESTful API and Tailwind CSS integration.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/sveltekit-restful-api-tailwind-css-cursorrules-pro",
+  "files": [
+    ".cursorrules",
+    "README.md",
+    "ai-assistant-guidelines.mdc",
+    "ai-md-reference.mdc",
+    "best-practices-guidelines.mdc",
+    "code-quality-standards.mdc",
+    "continuous-improvement-focus.mdc",
+    "design-and-user-experience-guidelines.mdc",
+    "development-workflow-details.mdc",
+    "documentation-standards.mdc",
+    "elon-musk-s-algorithm-for-efficiency.mdc",
+    "file-management-rules.mdc",
+    "file-path-usage.mdc",
+    "tech-stack-definition.mdc",
+    "test-driven-development-tdd.mdc",
+    "testing-guidelines.mdc",
+    "truthfulness-and-clarity-for-ai.mdc",
+    "windows-compatibility.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

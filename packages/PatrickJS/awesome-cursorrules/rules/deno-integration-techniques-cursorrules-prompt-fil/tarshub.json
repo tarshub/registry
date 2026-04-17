@@ -1,0 +1,22 @@
+{
+  "name": "deno-integration-techniques-cursorrules-prompt-fil",
+  "description": "Cursor rules for Deno development with integration techniques.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/deno-integration-techniques-cursorrules-prompt-fil",
+  "files": [
+    ".cursorrules",
+    "README.md",
+    "automation-script-rule.mdc",
+    "documentation-rule.mdc",
+    "general-development-rule.mdc",
+    "project-overview-rule.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

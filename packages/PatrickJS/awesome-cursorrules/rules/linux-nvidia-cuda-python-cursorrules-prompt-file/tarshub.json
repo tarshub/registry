@@ -1,0 +1,23 @@
+{
+  "name": "linux-nvidia-cuda-python-cursorrules-prompt-file",
+  "description": "Cursor rules for Linux development with NVIDIA CUDA and Python integration.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/linux-nvidia-cuda-python-cursorrules-prompt-file",
+  "files": [
+    ".cursorrules",
+    "README.md",
+    "ai-alignment-rules.mdc",
+    "continuous-improvement-rules.mdc",
+    "development-principles-rules.mdc",
+    "documentation-rules.mdc",
+    "project-overview-rules.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

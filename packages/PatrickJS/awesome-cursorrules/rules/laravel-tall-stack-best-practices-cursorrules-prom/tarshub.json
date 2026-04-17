@@ -1,0 +1,27 @@
+{
+  "name": "laravel-tall-stack-best-practices-cursorrules-prom",
+  "description": "Cursor rules for Laravel development with TALL Stack best practices.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/laravel-tall-stack-best-practices-cursorrules-prom",
+  "files": [
+    ".cursorrules",
+    "README.md",
+    "alpine-js-usage-rules.mdc",
+    "key-conventions-rules.mdc",
+    "laravel-best-practices-rules.mdc",
+    "livewire-implementation-rules.mdc",
+    "php-and-laravel-core-rules.mdc",
+    "security-best-practices-rules.mdc",
+    "tailwind-css-styling-rules.mdc",
+    "tall-stack-general.mdc",
+    "testing-rules.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "cursorrules-cursor-ai-nextjs-14-tailwind-seo-setup",
+  "description": "Cursor rules for Next.js development with Tailwind CSS and SEO optimization.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/cursorrules-cursor-ai-nextjs-14-tailwind-seo-setup",
+  "files": [
+    ".cursorrules",
+    "README.md",
+    "data-fetching-rules-for-server-components.mdc",
+    "error-handling-rules.mdc",
+    "general-guidelines.mdc",
+    "metadata-rules.mdc",
+    "next-js-14-general-rules.mdc",
+    "tailwind-css-styling-rules.mdc",
+    "typescript-code-generation-rules.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

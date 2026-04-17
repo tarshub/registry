@@ -1,0 +1,21 @@
+{
+  "name": "vue-3-nuxt-3-development-cursorrules-prompt-file",
+  "description": "Cursor rules for Vue 3 development with Nuxt 3 integration.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/vue-3-nuxt-3-development-cursorrules-prompt-file",
+  "files": [
+    ".cursorrules",
+    "README.md",
+    "css-specific-rules.mdc",
+    "html-specific-rules.mdc",
+    "vue-nuxt-general-rules.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

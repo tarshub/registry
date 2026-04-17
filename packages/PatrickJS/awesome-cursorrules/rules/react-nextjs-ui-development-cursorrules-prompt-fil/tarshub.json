@@ -1,0 +1,21 @@
+{
+  "name": "react-nextjs-ui-development-cursorrules-prompt-fil",
+  "description": "Cursor rules for React development with Next.js UI integration.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/react-nextjs-ui-development-cursorrules-prompt-fil",
+  "files": [
+    ".cursorrules",
+    "README.md",
+    "general-javascript-react-next-js-rule.mdc",
+    "general-project-behavior-rule.mdc",
+    "next-js-app-router-rule.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

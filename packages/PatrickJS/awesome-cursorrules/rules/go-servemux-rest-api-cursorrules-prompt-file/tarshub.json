@@ -1,0 +1,23 @@
+{
+  "name": "go-servemux-rest-api-cursorrules-prompt-file",
+  "description": "Cursor rules for Go development with ServeMux REST API integration.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/go-servemux-rest-api-cursorrules-prompt-file",
+  "files": [
+    ".cursorrules",
+    "README.md",
+    "go-api-development-general-rules.mdc",
+    "go-api-error-handling-and-response-formatting.mdc",
+    "go-api-security-and-best-practices.mdc",
+    "go-api-standard-library-usage.mdc",
+    "go-api-step-by-step-planning.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

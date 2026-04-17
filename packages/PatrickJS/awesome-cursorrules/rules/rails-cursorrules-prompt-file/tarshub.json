@@ -1,0 +1,19 @@
+{
+  "name": "rails-cursorrules-prompt-file",
+  "description": "Cursor rules for Rails development with basic setup.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/rails-cursorrules-prompt-file",
+  "files": [
+    ".cursorrules",
+    "README.md",
+    "rails-basics.mdx"
+  ],
+  "contentType": "cursor-rules"
+}

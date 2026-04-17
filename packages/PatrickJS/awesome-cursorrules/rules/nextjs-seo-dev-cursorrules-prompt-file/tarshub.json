@@ -1,0 +1,21 @@
+{
+  "name": "nextjs-seo-dev-cursorrules-prompt-file",
+  "description": "Cursor rules for Next.js development with SEO optimization.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/nextjs-seo-dev-cursorrules-prompt-file",
+  "files": [
+    ".cursorrules",
+    "README.md",
+    "general-code-commenting.mdc",
+    "next-js-project-rules.mdc",
+    "package-json-modification-protection.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

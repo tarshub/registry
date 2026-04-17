@@ -1,0 +1,26 @@
+{
+  "name": "java-springboot-jpa-cursorrules-prompt-file",
+  "description": "Cursor rules for Java development with Springboot and JPA integration.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/java-springboot-jpa-cursorrules-prompt-file",
+  "files": [
+    ".cursorrules",
+    "apiresponse-class.mdc",
+    "dto-conventions.mdc",
+    "entity-class-conventions.mdc",
+    "general-java-development-practices.mdc",
+    "globalexceptionhandler-class.mdc",
+    "repository-class-conventions.mdc",
+    "restcontroller-conventions.mdc",
+    "service-class-conventions.mdc",
+    "spring-boot-configuration.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

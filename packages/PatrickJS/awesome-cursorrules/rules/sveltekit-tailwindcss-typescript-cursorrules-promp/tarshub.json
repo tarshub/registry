@@ -1,0 +1,35 @@
+{
+  "name": "sveltekit-tailwindcss-typescript-cursorrules-promp",
+  "description": "Cursor rules for SvelteKit development with Tailwind CSS and TypeScript integration.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/sveltekit-tailwindcss-typescript-cursorrules-promp",
+  "files": [
+    ".cursorrules",
+    "README.md",
+    "accessibility-guidelines.mdc",
+    "async-operations.mdc",
+    "code-quality-tools.mdc",
+    "documentation-standards.mdc",
+    "general-code-guidelines.mdc",
+    "imports-aliasing.mdc",
+    "performance-optimization.mdc",
+    "project-file-structure.mdc",
+    "project-standards---version-numbers.mdc",
+    "senior-frontend-developer-mindset.mdc",
+    "svelte-component-design.mdc",
+    "svelte-component-syntax.mdc",
+    "svelte-state-management.mdc",
+    "sveltekit-data-fetching.mdc",
+    "tailwind-css-styling.mdc",
+    "testing-practices.mdc",
+    "typescript-typing.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

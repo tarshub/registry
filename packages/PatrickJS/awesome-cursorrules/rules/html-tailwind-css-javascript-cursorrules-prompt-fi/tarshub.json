@@ -1,0 +1,20 @@
+{
+  "name": "html-tailwind-css-javascript-cursorrules-prompt-fi",
+  "description": "Cursor rules for HTML development with Tailwind CSS and JavaScript integration.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/html-tailwind-css-javascript-cursorrules-prompt-fi",
+  "files": [
+    ".cursorrules",
+    "README.md",
+    "general-ai-programming-assistant-rule.mdc",
+    "html-tailwind-css-and-javascript-expert-rule.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

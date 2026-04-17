@@ -1,0 +1,27 @@
+{
+  "name": "typescript-nextjs-cursorrules-prompt-file",
+  "description": "Cursor rules for TypeScript development with Next.js integration.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/typescript-nextjs-cursorrules-prompt-file",
+  "files": [
+    ".cursorrules",
+    "README.md",
+    "code-style-and-structure-rules.mdc",
+    "general-typescript-node-js-next-js-rules.mdc",
+    "key-conventions-rule.mdc",
+    "naming-conventions-rule.mdc",
+    "next-js-data-fetching-rendering-routing.mdc",
+    "performance-optimization-rule.mdc",
+    "syntax-and-formatting-rule.mdc",
+    "typescript-usage-rule.mdc",
+    "ui-and-styling-rule.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

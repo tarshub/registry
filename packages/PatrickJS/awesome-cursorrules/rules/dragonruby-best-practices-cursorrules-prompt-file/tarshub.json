@@ -1,0 +1,22 @@
+{
+  "name": "dragonruby-best-practices-cursorrules-prompt-file",
+  "description": "Cursor rules for DragonRuby development with best practices integration.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/dragonruby-best-practices-cursorrules-prompt-file",
+  "files": [
+    ".cursorrules",
+    "README.md",
+    "dragonruby-error-handling.mdc",
+    "dragonruby-general-ruby-rules.mdc",
+    "dragonruby-naming-conventions.mdc",
+    "dragonruby-syntax-and-formatting.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

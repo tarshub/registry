@@ -1,0 +1,27 @@
+{
+  "name": "pytorch-scikit-learn-cursorrules-prompt-file",
+  "description": "Cursor rules for PyTorch development with scikit-learn integration.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/pytorch-scikit-learn-cursorrules-prompt-file",
+  "files": [
+    ".cursorrules",
+    "README.md",
+    "chemistry-ml---data-handling-and-preprocessing.mdc",
+    "chemistry-ml---general-python.mdc",
+    "chemistry-ml---model-evaluation-and-interpretation.mdc",
+    "chemistry-ml---pytorch-models.mdc",
+    "chemistry-ml---rdkit-usage.mdc",
+    "chemistry-ml---reproducibility-and-version-control.mdc",
+    "chemistry-ml---scikit-learn-models.mdc",
+    "chemistry-ml---tauri-integration.mdc",
+    "chemistry-ml---testing-and-validation.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "javascript-astro-tailwind-css-cursorrules-prompt-f",
+  "description": "Cursor rules for JavaScript development with Astro and Tailwind CSS integration.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/javascript-astro-tailwind-css-cursorrules-prompt-f",
+  "files": [
+    ".cursorrules",
+    "README.md",
+    "accessibility.mdc",
+    "astro-build-and-deployment.mdc",
+    "astro-component-development.mdc",
+    "astro-content-management.mdc",
+    "astro-data-fetching.mdc",
+    "astro-general.mdc",
+    "astro-integrations-and-plugins.mdc",
+    "astro-performance-optimization.mdc",
+    "astro-project-structure.mdc",
+    "astro-routing-and-pages.mdc",
+    "astro-seo-and-meta-tags.mdc",
+    "astro-styling.mdc",
+    "key-conventions.mdc",
+    "performance-metrics.mdc",
+    "tailwind-css-best-practices.mdc",
+    "tailwind-css-integration.mdc",
+    "testing.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

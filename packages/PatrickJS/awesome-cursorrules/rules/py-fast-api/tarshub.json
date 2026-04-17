@@ -1,0 +1,25 @@
+{
+  "name": "py-fast-api",
+  "description": "Cursor rules for Python FastAPI backend development and best practices.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/py-fast-api",
+  "files": [
+    ".cursorrules",
+    "README.md",
+    "database-interaction-rules.mdc",
+    "error-handling-rules.mdc",
+    "fastapi-application-rules.mdc",
+    "fastapi-route-specific-rules.mdc",
+    "performance-optimization-rules.mdc",
+    "pydantic-model-rules.mdc",
+    "python-general-principles.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

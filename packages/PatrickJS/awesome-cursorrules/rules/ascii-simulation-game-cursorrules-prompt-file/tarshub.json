@@ -1,0 +1,23 @@
+{
+  "name": "ascii-simulation-game-cursorrules-prompt-file",
+  "description": "Cursor rules for ASCII simulation game development.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/ascii-simulation-game-cursorrules-prompt-file",
+  "files": [
+    ".cursorrules",
+    "README.md",
+    "army-and-battle-mechanics-rule.mdc",
+    "core-game-mechanics-rule.mdc",
+    "data-tracking-and-charts-rule.mdc",
+    "general-game-design-and-programming-rules.mdc",
+    "visual-and-observational-rules.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "r-cursorrules-prompt-file-best-practices",
+  "description": "Cursor rules for R development with best practices integration.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/r-cursorrules-prompt-file-best-practices",
+  "files": [
+    ".cursorrules"
+  ],
+  "contentType": "cursor-rules"
+}

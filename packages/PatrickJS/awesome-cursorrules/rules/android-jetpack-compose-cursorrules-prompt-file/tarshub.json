@@ -1,0 +1,22 @@
+{
+  "name": "android-jetpack-compose-cursorrules-prompt-file",
+  "description": "Cursor rules for Android development with Jetpack Compose integration.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/android-jetpack-compose-cursorrules-prompt-file",
+  "files": [
+    ".cursorrules",
+    "android---project-structure.mdc",
+    "android-jetpack-compose---general-best-practices.mdc",
+    "android-jetpack-compose---performance-guidelines.mdc",
+    "android-jetpack-compose---testing-guidelines.mdc",
+    "android-jetpack-compose---ui-guidelines.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

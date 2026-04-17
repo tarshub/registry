@@ -1,0 +1,24 @@
+{
+  "name": "typescript-vite-tailwind-cursorrules-prompt-file",
+  "description": "Cursor rules for TypeScript development with Vite and Tailwind integration.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/typescript-vite-tailwind-cursorrules-prompt-file",
+  "files": [
+    ".cursorrules",
+    "README.md",
+    "code-style-and-structure-rule.mdc",
+    "general-typescript-rule.mdc",
+    "performance-optimization-rule.mdc",
+    "vite-build-optimization-rule.mdc",
+    "vue-js-component-rule.mdc",
+    "vueuse-library-rule.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

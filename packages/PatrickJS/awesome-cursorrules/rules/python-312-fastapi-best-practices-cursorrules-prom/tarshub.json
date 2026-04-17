@@ -1,0 +1,24 @@
+{
+  "name": "python-312-fastapi-best-practices-cursorrules-prom",
+  "description": "Cursor rules for Python FastAPI development with best practices.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/python-312-fastapi-best-practices-cursorrules-prom",
+  "files": [
+    ".cursorrules",
+    "README.md",
+    "alembic-database-migrations.mdc",
+    "fastapi-framework-rules.mdc",
+    "python-dependency-management-with-poetry.mdc",
+    "python-general-best-practices.mdc",
+    "unit-testing-requirement.mdc",
+    "virtual-environment-usage.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

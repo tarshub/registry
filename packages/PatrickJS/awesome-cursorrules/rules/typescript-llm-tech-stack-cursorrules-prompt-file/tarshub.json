@@ -1,0 +1,24 @@
+{
+  "name": "typescript-llm-tech-stack-cursorrules-prompt-file",
+  "description": "Cursor rules for TypeScript development with LLM tech stack integration.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/typescript-llm-tech-stack-cursorrules-prompt-file",
+  "files": [
+    ".cursorrules",
+    "README.md",
+    "code-style.mdc",
+    "documentation.mdc",
+    "file-organization.mdc",
+    "general-typescript-project-rules.mdc",
+    "library-usage.mdc",
+    "naming-conventions.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

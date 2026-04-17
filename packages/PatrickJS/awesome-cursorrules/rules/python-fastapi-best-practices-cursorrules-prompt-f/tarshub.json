@@ -1,0 +1,24 @@
+{
+  "name": "python-fastapi-best-practices-cursorrules-prompt-f",
+  "description": "Cursor rules for Python FastAPI development with best practices.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/python-fastapi-best-practices-cursorrules-prompt-f",
+  "files": [
+    ".cursorrules",
+    "README.md",
+    "fastapi-application-structure.mdc",
+    "fastapi-database-interaction.mdc",
+    "fastapi-documentation.mdc",
+    "fastapi-error-handling.mdc",
+    "fastapi-performance-optimization.mdc",
+    "python-general-coding-style.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

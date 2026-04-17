@@ -1,0 +1,21 @@
+{
+  "name": "swiftui-guidelines-cursorrules-prompt-file",
+  "description": "Cursor rules for SwiftUI development guidelines.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/swiftui-guidelines-cursorrules-prompt-file",
+  "files": [
+    ".cursorrules",
+    "README.md",
+    "swiftui-general-rules.mdc",
+    "swiftui-project-structure-rules.mdc",
+    "swiftui-ui-design-rules.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

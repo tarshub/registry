@@ -1,0 +1,25 @@
+{
+  "name": "typescript-nextjs-supabase-cursorrules-prompt-file",
+  "description": "Cursor rules for TypeScript development with Next.js and Supabase integration.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/typescript-nextjs-supabase-cursorrules-prompt-file",
+  "files": [
+    ".cursorrules",
+    "README.md",
+    "database-querying-rules.mdc",
+    "general-typescript-node-js-next-js-project-rules.mdc",
+    "key-conventions-rules.mdc",
+    "next-js-app-router-rules.mdc",
+    "performance-optimization-rules.mdc",
+    "ui-styling-rules.mdc",
+    "vercel-ai-sdk-integration-rules.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

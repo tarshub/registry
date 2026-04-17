@@ -1,0 +1,22 @@
+{
+  "name": "react-query-cursorrules-prompt-file",
+  "description": "Cursor rules for React development with React Query integration.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/react-query-cursorrules-prompt-file",
+  "files": [
+    ".cursorrules",
+    "react-functional-components-preference.mdc",
+    "react-project-folder-structure.mdc",
+    "react-query-additional-instructions.mdc",
+    "react-query-general-best-practices.mdc",
+    "react-query-hooks-directory-guidelines.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

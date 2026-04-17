@@ -1,0 +1,27 @@
+{
+  "name": "kubernetes-mkdocs-documentation-cursorrules-prompt",
+  "description": "Cursor rules for Kubernetes development with MkDocs documentation integration.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/kubernetes-mkdocs-documentation-cursorrules-prompt",
+  "files": [
+    ".cursorrules",
+    "README.md",
+    "cloud-native-and-kubernetes-expertise-rules.mdc",
+    "collaboration-and-version-control-rules.mdc",
+    "content-creation-rules.mdc",
+    "documentation-best-practices-rules.mdc",
+    "documentation-style-and-structure-rules.mdc",
+    "general-cloud-native-documentation-rules.mdc",
+    "metadata-and-seo-rules.mdc",
+    "mkdocs-specific-rules.mdc",
+    "technical-accuracy-and-usability-rules.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

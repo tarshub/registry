@@ -1,0 +1,19 @@
+{
+  "name": "solidity-react-blockchain-apps-cursorrules-prompt-",
+  "description": "Cursor rules for Solidity development with React Blockchain apps integration.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/solidity-react-blockchain-apps-cursorrules-prompt-",
+  "files": [
+    ".cursorrules",
+    "README.md",
+    "python-general-rules.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

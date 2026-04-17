@@ -1,0 +1,25 @@
+{
+  "name": "htmx-django-cursorrules-prompt-file",
+  "description": "Cursor rules for HTMX development with Django integration.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/htmx-django-cursorrules-prompt-file",
+  "files": [
+    ".cursorrules",
+    "django-class-based-views-for-htmx.mdc",
+    "django-form-handling.mdc",
+    "django-middleware-for-request-response.mdc",
+    "django-orm-for-database-operations.mdc",
+    "django-static-files-management.mdc",
+    "django-url-routing.mdc",
+    "general-django-project-structure.mdc",
+    "htmx-and-django-best-practices---general.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

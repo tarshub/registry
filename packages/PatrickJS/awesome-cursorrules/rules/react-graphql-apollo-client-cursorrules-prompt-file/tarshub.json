@@ -1,0 +1,26 @@
+{
+  "name": "react-graphql-apollo-client-cursorrules-prompt-file",
+  "description": "Cursor rules for GraphQL development with Apollo Client integration.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/react-graphql-apollo-client-cursorrules-prompt-file",
+  "files": [
+    ".cursorrules",
+    "apollo-caching.mdc",
+    "apollo-custom-hooks.mdc",
+    "apollo-devtools.mdc",
+    "apollo-provider-setup.mdc",
+    "graphql-apollo-client-usage.mdc",
+    "graphql-error-boundaries.mdc",
+    "graphql-naming-conventions.mdc",
+    "graphql-typescript-integration.mdc",
+    "react-functional-components-preference.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

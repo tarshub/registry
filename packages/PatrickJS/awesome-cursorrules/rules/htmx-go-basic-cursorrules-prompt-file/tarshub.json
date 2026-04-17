@@ -1,0 +1,20 @@
+{
+  "name": "htmx-go-basic-cursorrules-prompt-file",
+  "description": "Cursor rules for Go development with basic setup.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/htmx-go-basic-cursorrules-prompt-file",
+  "files": [
+    ".cursorrules",
+    "htmx-and-go---best-practices.mdc",
+    "htmx-with-go---additional-instructions.mdc",
+    "htmx-with-go---folder-structure.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

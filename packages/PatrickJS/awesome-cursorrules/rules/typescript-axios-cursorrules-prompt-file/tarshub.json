@@ -1,0 +1,20 @@
+{
+  "name": "typescript-axios-cursorrules-prompt-file",
+  "description": "Cursor rules for TypeScript development with Axios integration.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/typescript-axios-cursorrules-prompt-file",
+  "files": [
+    ".cursorrules",
+    "README.md",
+    "elite-software-engineer-and-product-manager.mdc",
+    "general-python-rules.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

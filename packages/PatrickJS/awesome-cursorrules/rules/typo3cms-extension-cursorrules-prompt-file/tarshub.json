@@ -1,0 +1,18 @@
+{
+  "name": "typo3cms-extension-cursorrules-prompt-file",
+  "description": "Cursor rules for TYPO3 CMS development with extension integration.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/typo3cms-extension-cursorrules-prompt-file",
+  "files": [
+    ".cursorrules",
+    "README.md"
+  ],
+  "contentType": "cursor-rules"
+}

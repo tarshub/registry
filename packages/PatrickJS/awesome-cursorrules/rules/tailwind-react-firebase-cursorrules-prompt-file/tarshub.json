@@ -1,0 +1,25 @@
+{
+  "name": "tailwind-react-firebase-cursorrules-prompt-file",
+  "description": "Cursor rules for Tailwind development with React and Firebase integration.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/tailwind-react-firebase-cursorrules-prompt-file",
+  "files": [
+    ".cursorrules",
+    "README.md",
+    "accessibility-rules.mdc",
+    "code-organization-rules.mdc",
+    "firebase-rules.mdc",
+    "form-handling-rules.mdc",
+    "general-ui-ux-rules.mdc",
+    "mobile-first-design-rules.mdc",
+    "pill-management-ai-feature.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

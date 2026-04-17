@@ -1,0 +1,23 @@
+{
+  "name": "typescript-react-nextui-supabase-cursorrules-promp",
+  "description": "Cursor rules for TypeScript development with React, NextUI, and Supabase integration.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/typescript-react-nextui-supabase-cursorrules-promp",
+  "files": [
+    ".cursorrules",
+    "README.md",
+    "authentication-flow-rules.mdc",
+    "email-confirmation-rule.mdc",
+    "general-frontend-rule.mdc",
+    "react-ui-components-rule.mdc",
+    "supabase-backend-rule.mdc"
+  ],
+  "contentType": "cursor-rules"
+}
