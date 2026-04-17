@@ -1,0 +1,26 @@
+{
+  "name": "angular-novo-elements-cursorrules-prompt-file",
+  "description": "Cursor rules for Angular development with Novo Elements UI library.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/angular-novo-elements-cursorrules-prompt-file",
+  "files": [
+    ".cursorrules",
+    "README.md",
+    "angular-standalone-component-rules.mdc",
+    "code-style-and-formatting-rules.mdc",
+    "debugging-and-testing-rules.mdc",
+    "development-process-rules.mdc",
+    "general-behavior-rules.mdc",
+    "general-coding-principles.mdc",
+    "novo-elements-integration-rules.mdc",
+    "project-structure-rules.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

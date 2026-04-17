@@ -1,0 +1,24 @@
+{
+  "name": "astro-typescript-cursorrules-prompt-file",
+  "description": "Cursor rules for Astro development with TypeScript integration.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/astro-typescript-cursorrules-prompt-file",
+  "files": [
+    ".cursorrules",
+    "README.md",
+    "astro-development-guidelines.mdc",
+    "commit-message-guidelines.mdc",
+    "custom-slash-commands.mdc",
+    "general-coding-style.mdc",
+    "tailwindcss-styling-guidelines.mdc",
+    "typescript-development-guidelines.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

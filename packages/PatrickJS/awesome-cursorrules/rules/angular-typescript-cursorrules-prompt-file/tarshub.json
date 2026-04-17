@@ -1,0 +1,26 @@
+{
+  "name": "angular-typescript-cursorrules-prompt-file",
+  "description": "Cursor rules for Angular development with TypeScript integration.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/angular-typescript-cursorrules-prompt-file",
+  "files": [
+    ".cursorrules",
+    "README.md",
+    "accessibility-guidelines.mdc",
+    "angular-general.mdc",
+    "angular-template-hints.mdc",
+    "general-reasoning.mdc",
+    "performance-optimization.mdc",
+    "refactoring-existing-code.mdc",
+    "testing-guidelines.mdc",
+    "typescript-coding-style.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

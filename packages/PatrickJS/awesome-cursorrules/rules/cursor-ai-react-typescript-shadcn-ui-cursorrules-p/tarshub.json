@@ -1,0 +1,23 @@
+{
+  "name": "cursor-ai-react-typescript-shadcn-ui-cursorrules-p",
+  "description": "Cursor rules for Cursor AI development with React, TypeScript, and shadcn/ui integration.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/cursor-ai-react-typescript-shadcn-ui-cursorrules-p",
+  "files": [
+    ".cursorrules",
+    "README.md",
+    "naming-conventions-rule.mdc",
+    "performance-optimization-rule.mdc",
+    "react-and-typescript-general-rules.mdc",
+    "typescript-usage-rule.mdc",
+    "ui-and-styling-rule.mdc"
+  ],
+  "contentType": "cursor-rules"
+}

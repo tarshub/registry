@@ -1,0 +1,18 @@
+{
+  "name": "beefreeSDK-nocode-content-editor-cursorrules-prompt-file",
+  "description": "Cursor rules for embedding Beefree SDK's no-code content editors (for emails, pages, and popups) into a web application.",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/rules/beefreeSDK-nocode-content-editor-cursorrules-prompt-file",
+  "files": [
+    ".cursorrules",
+    "README.md"
+  ],
+  "contentType": "cursor-rules"
+}
