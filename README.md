@@ -40,7 +40,7 @@ Anyone can submit a public GitHub repo (or a subdirectory within one) to TarsHub
 
 ### Optional: add a `tarshub.json` in your repo
 
-Adding a `tarshub.json` to your repo (or subdirectory) is **optional** but gives you richer metadata and listing control. When present, publish can store the same JSON under the matching path in this registry (with `repo` / `subpath` filled in if needed).
+Adding a `tarshub.json` to your repo (or subdirectory) is **optional** but gives you richer metadata and listing control. When present, publish stores the same JSON under the matching path in this registry, with `repo` set to the full GitHub slug (`owner/repo` or `owner/repo/nested/path`).
 
 ```json
 {

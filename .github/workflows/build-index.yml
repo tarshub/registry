@@ -68,18 +68,21 @@ jobs:
                   const version = entry.version || '1.0.0';
                   const fileCount = Array.isArray(entry.files) ? entry.files.length : 0;
 
-                  packages.push({
+                  const pkg = {
                     id,
                     name: entry.name,
                     author,
                     avatar: `https://avatars.githubusercontent.com/${author}`,
                     repo: entry.repo,
-                    subpath: entry.subpath || '',
                     description: entry.description || '',
                     keywords,
                     files: fileCount,
                     version
-                  });
+                  };
+                  if (entry.contentType) {
+                    pkg.contentType = entry.contentType;
+                  }
+                  packages.push(pkg);
                 }
               }
             }
