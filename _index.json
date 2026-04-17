@@ -1,24 +1,6 @@
 {
-  "updated": "2026-04-17T14:17:39.052Z",
+  "updated": "2026-04-17T14:23:19.364Z",
   "packages": [
-    {
-      "id": "PatrickJS/awesome-cursorrules/blob/main/rules/nextjs-typescript-cursorrules-prompt-file",
-      "name": "nextjs-typescript-cursorrules-prompt-file",
-      "author": "PatrickJS",
-      "avatar": "https://avatars.githubusercontent.com/PatrickJS",
-      "repo": "PatrickJS/awesome-cursorrules/blob/main/rules/nextjs-typescript-cursorrules-prompt-file",
-      "description": "Configuration files that enhance Cursor AI editor experience with custom rules and behaviors",
-      "keywords": [
-        "awesome",
-        "awesome-list",
-        "cursor",
-        "cursor-ai-editor",
-        "cursorrules"
-      ],
-      "files": 0,
-      "version": "1.0.0",
-      "contentType": "other"
-    },
     {
       "id": "prakis/cursorrules-test",
       "name": "cursorrules-test",
