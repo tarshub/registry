@@ -1,0 +1,15 @@
+{
+  "name": "react-mobx-cursorrules-prompt-file",
+  "description": "📄  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursor-ai-editor",
+    "cursorrules"
+  ],
+  "version": "1.0.0",
+  "repo": "PatrickJS/awesome-cursorrules/blob/main/rules/react-mobx-cursorrules-prompt-file",
+  "files": [],
+  "contentType": "other"
+}
