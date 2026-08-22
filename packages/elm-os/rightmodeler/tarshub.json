@@ -1,0 +1,25 @@
+{
+  "name": "rightmodeler",
+  "description": "Replay real agent traces through cheaper models to prove which swaps are safe.",
+  "keywords": [
+    "agent-evals",
+    "ai-agents",
+    "cost-optimization",
+    "llm-evals",
+    "model-routing",
+    "traces"
+  ],
+  "version": "1.0.0",
+  "repo": "elm-os/rightmodeler",
+  "files": [
+    ".mcp.json",
+    "AGENTS.md",
+    "CLAUDE.md",
+    "README.md",
+    "package.json",
+    "pnpm-workspace.yaml",
+    "turbo.json",
+    "vercel.json"
+  ],
+  "contentType": "agents-md"
+}
