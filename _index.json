@@ -1,6 +1,25 @@
 {
-  "updated": "2026-04-17T15:39:27.750Z",
+  "updated": "2026-08-22T00:45:13.821Z",
   "packages": [
+    {
+      "id": "elm-os/rightmodeler",
+      "name": "rightmodeler",
+      "author": "elm-os",
+      "avatar": "https://avatars.githubusercontent.com/elm-os",
+      "repo": "elm-os/rightmodeler",
+      "description": "Replay real agent traces through cheaper models to prove which swaps are safe.",
+      "keywords": [
+        "agent-evals",
+        "ai-agents",
+        "cost-optimization",
+        "llm-evals",
+        "model-routing",
+        "traces"
+      ],
+      "files": 8,
+      "version": "1.0.0",
+      "contentType": "agents-md"
+    },
     {
       "id": "PatrickJS/awesome-cursorrules/rules/android-jetpack-compose-cursorrules-prompt-file",
       "name": "android-jetpack-compose-cursorrules-prompt-file",
